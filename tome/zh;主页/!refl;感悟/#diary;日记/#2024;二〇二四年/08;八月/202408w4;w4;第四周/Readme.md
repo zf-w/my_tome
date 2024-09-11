@@ -1,0 +1,138 @@
+---
+description: "二〇二四年八月的第四周"
+long_title: "二零二四年八月第四周日记 - 之枫"
+---
+
+# 八月二十六号周一
+
+## 电脑转移
+
+即使是有 Git 和 GitHub, 处理两个电脑上的项目也是件麻烦是. 主要是还是之前有没有 commit 的内容.
+
+## 事件
+
+[(Encrypted)](#MPMKKNEGKFGKOIDMMDDJFPEFFMCEOOOFBLMGCJLINJIGDHGBNGCNDGHLOGCJHMAHACAPCALAIHHFOJPJNNEIHKLKIAIDFJNPEBOHKHBDIPGMBAFMOJLOIBNDGEAGAAEGIJEHENIELIEDGAFFBLOKNGOGCLCFGEJGHJAFBAHOBKGMCDDAADEMBBCNAMFKOFFENLGMHKIHNNBKKGCFCACCAPBHFHFCBIJEOLLEPJALOBCGNHMLEAEJDNIMIFJICANEEJDPAIOBJNOLODIDMGBOFIDOPGIGNFJLIPJDDLDGEKHEADIKCOMNGFJDALDEILCJIAPPDGPGCCICMJOELBBEFBPCAABMIJADPHCNIFFIHMMJIMMLEMCJDMFNKMMLKOCIHJOEPLHDBGIIBMGGHEOFMJJPEGFPPFIFPINMIJKIMEDFKPELNHICHJNKENLMCBNMCIMBCJINNCCBPNOLBHCOPDDIFKNNGCMPIKEGFIMAODGOEEPBHMDMKEBEHLAHDFFEJOCBPIEKCIIKABIKEBLPOELGGJHEONACNGOJGJHJGBMAFGMPPFKNMNBEEGFCJGELAOHOEICOMCCLKNNJCECJKLBJEKIFICIDAKFNPJKDOEHKCAJFAEKNGKKECIFOGFDPCLBBNJPEAGGEDLEEKONBBIPFIAHKBIHMKBMFLLAGCINNJGENNNGKDNNIDEOOAGEEPMGHFMBDHAEDBHHHEONLJDIEDFOMFMONJCKOLLIGPCAHNFDGEDPKHADNBNECOOBBNNDPLFCHJAIBHADDLBNCPJGPMGABADOOBPOHONMNPAFEAAKDFEAIFAPFLACBHECGILCHNHGALACLEEIAGLBIBB)
+
+[(Encrypted)](#HGCFJPHGDDAJLPDLDPCPLJOOFIFOOHNFGMKAFLCAIOLACHIANLBJGFMPLKOIFBLBBMICJHOCBGOKIKBKIJDLEOGGFBBKMILNIKEKJHGLBOBCEIHIEOIGENALFNFGMPCFCNOFGDBFFCENBMEGMNHMCGCELDFHPMJLCIEELKCIDDELGJDGFBBMGELLJHKDFDLKPICEMJOGKDHOKEJBMIHAMLMFPBDLHGGAEEEOGGIBOOMAJNJPFGCFGOFJILJLBFPMHBFGPONHAFPOIEHOINBLBBJNFHICBEECODADHHGFKAMJBABOEFCBOGPKLDNFMIBKNMLP)
+
+# 八月二十七号周二
+
+## 计算疗愈
+
+昨天我本来应该要 free 一个不知道被什么人放到公寓外门把手的香蕉的, 但是不幸忘了. 早上起来把它收视了. 我想香蕉还是可以放在粉碎机里处理的. 我先把果肉拿出来切成一个个小近似圆柱体, 然后分批放进粉碎机. 然后我再把香蕉皮切成一个个小方块. 那香蕉本来被人从中间竖着剥开, 所以我横着先剪成一个个 U 型小长条, 然后再分别按短边方向把长条剪成小方块送进粉碎机. 一开始我担心香蕉的梗是不是会不太好粉碎, 但是听声音来说好像还可以. 嗯, 一根香蕉就这么消失了.
+
+除此之外, 我还处理了早饭的一个麦片瓶子. 麦片瓶子的回收必须得即时, 否则或许那些麦片就会干掉了, 以致于不好清理. 瓶子和装麦片的杯子大抵都是如此. 我发现用自带的瓶子泡容易相对来说喝不干净, 毕竟有瓶口之类. 而我又不大在意到底是不是按照说明隔夜泡的. 所以我就用杯子喝吧.
+
+## 流水账
+
+接下来要处理一下年度的学校密码更新. 我觉得下午的 IS390 的课感觉特别和我的性格契合哈哈. 希望能顺利.
+
+[(Encrypted)](#OEKPCPCKALINCIELOELAINHMCKCHFMBKMDCFDMBPAIHGOKJAHEMNFBGBNCAAGOCGMIPADMFJDHKEGMAKDDEGMKEMIPAMPEGPMEJOLLIJECKJJIEMHFCLANGIGMAEJALGMCFLOJHPEDBCGCPJALFLNCABFEKFAKKJOAHCHABFBFEHEPNJEKIIAPNCMEPNPFDMFAHGDJOIPHPAMDCDFEHCJLFDFNDDPEOAKMAOCHJFNDHCGAPCKLPBGKBKPJEANHEJGBJEOKFFJKKKAJHPAHJNKIFDIGIGKAHOIOFCLIDOHIKEDHGJOJGENBICELMDFFHPDMMDPIPJEBMIPDAFDEPEBMLDCMLHKMIOFIDEKDGNFAHJANKNPEKFLJLIONGAHFJHNHKOGGHEKNHMIOJKIIJLPEEOLLKPPPFFEMPNJPEEJFOBIFINBBKKHCFJCJEPIHIPNHBJAABNKMGLEHCCEFDGAEPI)
+
+[(Encrypted)](#FMCKPHKNABGJLDEFIPPADEPFHEJFDIHKFCIDGJEAAOFGIGJBBOFNDNIGLGCPEPFBKCDNPFPLIEMFJIFLDELMFIHMBLELICBMNIBGAGHCCODELFJNBHFMLGMJGIDOJCODMBPCFFJCFADIALMABBLIBIOGFCCDGJKMJMMMCNPNCDJLIBOHJALOLGLGNMFACINAHJHLKHOEMLBJIIAGLIGPJKKHDALKENHDGBDLJBIMFOILEHAKKJAAMACIKEFFCCAHBFLCEKOBIADBGFKDLMLBAPHAIIPGIOGINKKHHJOPKPKENDDMABFLOK)
+
+# 八月二十八号周三
+
+## 音乐
+
+最近听到一首蛮好听的歌叫"走过咖啡屋", 应该是一位叫千百惠的歌手唱的.
+
+## 计算疗愈
+
+今天送走了两包凯撒沙拉的包装, 发现好像是连号的, 一个是 7 一个是 8, 不知道是不是. 我觉得剪开任何塑料包装的时候都可以参考它上面的字的方向去剪开其中一个边缘. 这样就不至于纠结到底是剪开那个位置了. 希望不要啥时候让我遇到斜着写配料表的奇怪包装. 好吧, 最起码正面是长方形的应该不会有斜着的吧.
+
+今天还送走了三盒旧牛奶盒和一瓶大咖啡包装, 旧的花生酱小 MM 豆包装, 原先的室友落下的两盒过期仨月的酸奶, 还有之前炸鸡的包装.
+
+垃圾房的上下通道感觉还没有完全通顺, 好像只掉了几层就卡住了.
+
+## Security Util
+
+感觉在使用过程中发现用`stdout`好像还是有些问题. 我想了一下还是改成用之前的`tty`形式. 只是这台在美国买的电脑似乎`tty`并不能正常输出中文字符. 因为在旧电脑上程序是可以正常运行的, 所以我想或许是 Windows 设置的问题. 查了一圈, 发现确实可以在"Control Panel \ Clock and Region \ Region \ Administrative \ Change system locale..."里修改. 参考了[https://github.com/microsoft/terminal/issues/1802](https://github.com/microsoft/terminal/issues/1802).
+
+# 八月二十九号周四
+
+## CS233
+
+昨天刚刚选上了 CS233, 做了一堆作业. 我看课程安排, 我以为是说前两周都线上, 因为有个 zoom 链接. 但是仔细看了几遍之后才发觉其实线下部分的人要去线下. 于是我就赶紧赶去教室, 迟到了五分钟.
+
+## 一波三折
+
+[(Encrypted)](#MLCICEFIGFLDEEFDDELEJAKKDJILIANHKFLNPCNIJMNKNNFIAEENCFIFDPHEHCHKJKBACLKEBCEMBGOMCOCEGKHPLFAMNOICCJJGKHBDMBKMJGEFFPHPMMGHDKKDPKAKOCBNPDJPCNIHGFFBAGPLBPNDEIKIDDICBAKJIPJGNBLLKEDIHJKIEFJNDFGOKGNAPHEIMOCJMDEIKMLAJCECOLJGLGPNLGGLFCDCIHBIHKOLPGPFGMHKAAPNBJMAOCEJFDNAGNEIMHKPPBJBFJNAHGDDOABOEINJJJIMPEEKLCHBKHKBPLLADNDONJFOLLPMKCJCFFCBMGMLHPMAOCDAAHOFEMCOFHGGPANFADFGBOAFGFBAAALPOLAAPNJKNHCFCCJBALGGLJPJCJEFECHDKJOFFLOALGCFLAFCEHLMKCCKJBOKFBCKMBAEICNNFPMBNHEMPOILMBGKPIDDAGLBLJPPOMOGOBFPHLAJKDCBCNKPFKIOLMJKIIKLDJDAEFEIGEAIGGIJCCGMNIOKILEOALJLEMMBLKKJHMKHEPLKKNMBELJEBELPMCBECOCMNNGNGFPKIAIIOJKILFENNODJLNCBEGBNKHOJNEBCMLJEJABGFLGNOGCMEGCJFMJEFPIMBNNIGKCMDOOIKGEPPFNOJBFOLLMOBIIKIIMEHBLGMNHHCHJIIKIDLLBMLLNOJAABOGCBOEAKGJAFFAIIDPGLJEPLICOEEMOGEGKJHCJLBNOOADFIJIHAPOCAJEEGAHLKCLGJCCMHHEBHEAMJFPBNHEIFBGNMAAGMLNOCJMKOMPNGMFGINCLGPEFBFAHNHJNMEODMDDKDHPKLBHGHJKIALBBNJAFBNABJBNJLIFCCJOOFDCLGANLNFDNKDCPDADMNABIKAJOIHJABDPDCHDINIFJJDACOGIOLKLNEEPMMPDECBNMDJIHAPADOABDDGPNMGPABGGLACOLKIHKFCHIMGOOKCAHAOHMOKCLMOJJKDLCLNFJJCOKEHJFKBAEEOGNNJDADAPHOOOHLICIHCPGPEANOEMFJKFBNGKMIOGCMDIPHEAIDECPDKLJGBODDLMLLGGHDOFDKMFIJOGDLAMLDHDMOCBECJABLLPJFHDGKEADBLPFDIDLCONDOJFFJNMBLGMEEBLIJIHGKKGNBNBFBEKACBKOPPLMIPPCAIFDMMOABBFGDHONOFHKMDFDCKJFFJFOGCJIFGKFCJELNJBENFDOKJBLIADFLPBPIHPPOJPBICKJDFNBOIOMIJLFNKHLNJPPLNKHEGMPDFKGLEPOEKJOMDKFNHLNCEPLENKJDHCANKIFCONKHDBKFPEJNHJKGLBFILKOIDJPGNIKFKIHBMNJHHPEL)
+
+## 奇怪的人
+
+晚上大约十一点半的时候, 突然好像有一帮人开门然后大声的聊天, 不知道是恶作剧还是喝多了走错了之类. 应该不是搬家, 因为没有搬新东西进来. 也没有人再开门进来. 看起来我理论上随时锁门的习惯还是需要推广一下. 总之是吓了我一跳.
+
+## CS415
+
+睡觉之前还是把未来的一个作业开了个小头. 感觉最近的晚上确实都在睡觉, 我是说八点到十一点这种范围里. 可能确实还是有一点时差的吧.
+
+# 八月三十号周五
+
+## 整理密码
+
+早上起来整理了一下一些密码的储存, 感觉某种角度上是这个时代最重要的东西了.
+
+## Consistency 一致性
+
+昨天在 IS390 里, 老师和我们讨论了理性. 什么是理性或者不理性. 或许理性的第一步会是确认理性和不理性中只能同时成立一个. 某种角度说, 不矛盾可以说是理性, 好比说一个人喜欢苹果超过香蕉, 喜欢香蕉超过葡萄. 那或许按照常识, 我们可以说这个人应该喜欢苹果超过葡萄. 这或许是一致性的一部分. 我想到我平时纠结的一个问题就是一致性, 举例来说比如说如何给文件夹起名才算是一致. 如果朋友你了解过一些编程, 或许你会觉得给变量, 函数, 结构体, 模块名, 都是特别需要一致性的东西.
+
+## 插线板
+
+我发现换了个插线板后可以省下一个转接头还挺好的. 细长的新插线板节省了不少的桌面空间.
+
+## CS233 Quiz 0
+
+这个主要是有 Extra Credit, 就是个对于几何东西的敏感度的测试. 比如说在一大堆线里找图案之类或者立体东西的翻转. 我翻转的题眼花看错了俩, 最后只有 91%.
+
+## 奇怪的问答
+
+我考试完成之后出来, 在考场外收拾东西. 有个坐在边上的年轻白人女性问我我考的是什么, 我说 CS233(一开始口误说成 CS237 了), 那人说 ok. 我没说话就走了. 感觉有点奇怪, 备案记录一下. 要说起隐私, 我想想光, 空气这种介质都不太保护隐私. 光线可没问过我的意见要不要把我的信息传输走. 不过或许可以以后做个眼镜, 默认把人都拿方块或者图案挡上, 以至于步态和身高都看不出来, 而且男女通用, 其他生物暂时不考虑. 除非有对方的知情同意, 否则不能看到, 听到对方说的话. 不过估计地铁就坐不了了哈哈哈.
+
+## 红楼梦
+
+今天我凡心偶炽在小红书上发了条评论: "我想或许红楼梦一部分讲的是还债，还情的话，灌溉之情和女娲落下一块石头的债不是正好一对儿哈哈？ 一个仙草对神瑛，一个女娲对补天石[笑哭R]."
+
+我想, 如果有人问我说红楼梦好在哪, 我会说我也不知道. 但是我觉得确实可能我和作者的性格蛮接近的, 所以很多点我感觉就是我会思考的. 比如说其中一点就是多想, 哎呀这个人说这句话会预言她怎样的命运呢. 还有比如说对人的观察和对细节的在意加上或许可以说体贴和关怀吧.
+
+## 晚饭
+
+[(Encrypted)](#BMMHHBDMHGMJIOJIAPMCKKMCCKKGKJEJHHGDABMEAMGCGOMJMIBLBHGBFFHKKKNEAOLFKGNPJFAPBDKPPHJBDGCFMIOAMOCKEOBCCGIDLCOIOJFOAGPPIHNDIMKAHKMNFMFBIBHFIMGLDMDLAAILLAGPDONPOJNNNCOCLPEPBLPPCIGIDIOPIKGNLGMNKDKEFMANILIPHBGLMGABBLPDEIAPFMFKBGLFEEOEBDMHLEJJJKKLMLABIOLEFJLBHAMEMPHHGGEAEAEMEEKGODNDPFMJLIBNMFOECLPKJNMEGFHAMBDKJEMGDCNDLJNJILAFNKKBNHFGIBIFPHPIBMKBNHBICPIICEDIMOLPAMLAGECFCALMBJKIENNKGDAAGKPGMOIOEBKJCDAAAJDBCOHEHBLBCLHFFCAHMFMPHODLEPAGAHAECBGFNMFLOGBDCBNEIAINMFMIOALIJABNNEJCNBAIGFNDDPODFJJNIJMPFFHNCJKEEFABJOGMICPKCNPNGEGDDFBLEICNALJGLMLHPGPAIIIJJDFECLPDOBHBCAEFJHOKMBGFODMLCGOBBECPPPFLLL)
+
+## 洗碗
+
+把昨天中午就泡着的碗洗了. 还有巧克力奶的瓶子, 还有放小蛋糕的碗我冲洗了一下. 之前在下水道捡到的花生棒还需要处理. 很多时候就是一念之间感觉兔死狐悲, 物伤其类. 我一直以为兔死狐悲是类似猫哭耗子之类的, 知道看见黛玉说这个去查了一下. 我觉得有时候洗碗倒是一件很好的休闲活动, 因为似乎脑子终于可以歇一歇了. 我感觉很累. 可能还是时差的缘故吧. 哦对了, 今天本来计划送走几个瓶子还有塑料袋和包装盒的, 下雨的话还是明天吧.
+
+## 更新Heroku
+
+之前部署的时候它提示我可以更新一下了, 一直都担心出岔子没有更新, 有时间的话就把它更新了哈哈, 还有之前的那个随机名字"stark-temple加上一串数字", 也换成个有意义的了. 我有时候会纠结对于这种数字缘分到底要不要记录. 感觉还是随它去吧. 任尔去, 忍淹留. 理论上这种数字大概是不会算丢的, 因为我本来也不需要了. 如果是忘记了密码而重置了, 实际上我想理论上这个世界应该也没有地方能记得它了. 除非服务器有什么怪逻辑把我忘掉的密码都偷偷收集起来之类. 不过也确实要注意这一点哈哈哈.
+
+# 八月三十一号周六
+
+## 做家务
+
+早上起来应该把那些瓶子收拾一下. 看到之前我收拾出来的两个[(Encrypted)](#CLBFPHPEGFEAMKAAMPGIFGECNAIFIFJMINJCMBCDHOALOJMBNCFIDELDAPLMIBJCIDPGKKCBBI)的水果冰棍盒子, 想到或许我应该也把它们送走, 还有冰箱里还剩下的早已过期的同款冰棍. 很多冰棍的底下都已经渗出了不明的液体, 把它们和塑料包装袋一起粘在了纸盒里. 我把它们都取出来, 拆开. 冰棍的拆开相对能比较有一致性, 都是沿着木棍头所在的方向扯开就好吧. 我把它们拆开了之后放到水池里, 让它们淡淡地融化掉. 我走远一点, 看到五颜六色的光从银色的厨房水池边缘反射出来. 想到它们一会儿就要消失了, 有一丝淡淡的忧伤, 不过我想这是应该要做的. 不然它们就会臭在垃圾堆里吧, 或者或许被困在塑料包装里.
+
+## 困
+
+早上起来收拾完了上面的东西之后睡了大概一个小时. 然后起来之后看到消息[(Encrypted)](#GPGKOGMPPDKLOHPHAHLFOJBDHKFPCFGEAGLJOEKHACEIDBKICNPCJCNDBKMOCEPBDAGMHBOKMEOEAAHOABOFHBMHKLICHBIKFLDOPOBMFDGKEGIOGJHEFOMHHJLCCLEDMNJJMFLDNHNCCFMKNCPADNFLMIKIIEKLPIJI).
+
+## 流水账
+
+现在要去Target买份千层面, 或许可以买不是速冻版本的. 我好像没有尝试过这种没有冻起来的版本我可不可以完整扣出来然后放在盘子里加热. 回来之后吃饭写作业然后看看修改一下我的`zhifeng_mdbook`, 就是CSS的部分看看能不能改成使用`BTreeMap`, 省的额外的排序或者生成过程中同样的内容输出不统一. 实际上回来之后就写作业了. 有时间再看看吧.
+
+# 九月一号周日
+
+## 早上
+
+早上煎了个鸡蛋, 吃了一些小点心. 我还打扫了一下子物理桌面. 我计划去采购东西之前要送走一下最近的和暑假的最后一个白水瓶子加上巧克力奶, 菠萝汁, 矿泉水, 还有一瓶临时买的小白水瓶子. 还得做一下每日一题. 今天的每日一题是简单哈哈哈. 我在想如果说吃饭也是有截止日期的任务的话, 我最好赶紧开始弄了.
+
+不知因为什么, 本楼层的垃圾房又满了. 我往下找了两层找到一间相对不满的, 把瓶子们分两次送走了.
+
+## 进食
+
+中午按照计划吃了千层面和新买来尝试的素香肠, 好像没什么味道, 还有一个素巧克力蛋糕. 我在Amz买了Inside Out 1又看了一遍支持一下.
+
+## 作业
+
+下午主要是做IS309的阅读作业, 读到大体是希望用Mainframe电脑去减少所需的高技术员工的数量和她们的团结的人最终增加了高技术工作人员的需求, 而希望用Personal Computer去使计算机成为一种去中心化, 回归人文, 回归自然的人, 最终只是把中心化带到了家里, 而个人电脑更多的成为了办公室用品, 而不是艺术创作的工具. 文章指出, 支持个人电脑的黑客们其实最终还是希望获得某种旧权威的认可, 是一种起源于他们在最初并不能用正常方式使用电脑产生的执念. 最终, 个人电脑还是成了加强旧秩序的工具. 这篇文章还挺有趣的. 然后我做完了计算机架构的预习作业.
