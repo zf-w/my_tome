@@ -15,11 +15,27 @@ long_title: "Main Page - Zhifeng"
 
 I'm **Zhifeng Wang**, currently an incoming senior year undergraduate student single-majoring in Information Science + Data Science at the School of information science at the University of Illinois Urbana Champaign.
 
-## Interests
+# About My Website
+
+## Off Topic
+
+I would say Computer Science is about being considerate: (1) being considerate to and respectful to the world's natural laws, (2) being considerate to hardware, computer memory, compilers, and interpreters, and (3) being considerate to developers and users. However, balancing these factors can be very difficult.
+
+## Website Design
+
+The website's design resembles a book. The table of contents should be open by default, and you can use the top left button to toggle the table of contents menu.
+
+For the table of contents menu, you can click on the name of each "chapter" to go to the designated webpage.
+
+I'm not a big fan of collapsable menus since too many layers of nested folders can be a little messy. To encapsulate contents, making it easier for readers and me to focus on a "subpart" of the book, the chapter names with **a line below** are the links indicating those contents are grouped. When you enter those "**subparts**", the contents "above" that level will disappear in the table of contents menu, but you can always go back by clicking the chapter name of the "parent" content (**always on the top and has a separation line under it**).
+
+At the end of the page, there is another navigation bar to allow us to jump to the next or previous page, decided by a pre-order traversal of the content tree. This sometimes gets tricky when an encapsulated page node starts a subtree of contents that is not included in the table of contents. When we get those pages, a third link will let us go deeper into the subtree of contents.
+
+# Interests
 
 - AI, Machine Learning, LLM, Strongly Solving Games
 - "Intelligence" Visualization in Data Visualization (if there is such a thing).
-- HCI, Computer Science + Education
+- Human Computer Interaction, Computer Science + Education
 
 I'm interested in the topic of "learning", both in AIs and humans. How do AI learn from data and experiences and solve problems? How do different AI's structure design and random initial state affect their intuitions of decision makings and learning processes? How do data being abstracted and represented differently affect learning progress?
 
@@ -68,11 +84,3 @@ Visualizing networks, or graphs, is also a long project that I have been working
     "load": ["/src/assets/bht/Airfoil1.bht.test.json"]
 }
 ```
-
-# About this Website
-
-The website's architecture resembles the classical design of books. I think the book design elegantly captures both the advantages of allowing a linearly natural reading experience and tree-like encapsulation for quick information look up.
-
-There are two navigation bars: the side one and the page end one. The side one is on the left side of the page and is open by default. You can use the top-left corner button to toggle it on and off. After the first load of the page, the page will store the sidebar's state in the browser's "local storage" to hide the bar if it was closed before the navigation to other pages.
-
-At the end of the page, there is another navigation bar to allow us to jump to the next or previous page, decided by a pre-order traversal of the content tree. This sometimes gets tricky when an encapsulated page node starts a subtree of contents that is not included in the table of contents. When we get those pages, a third link will let us go deeper into the subtree of contents.
