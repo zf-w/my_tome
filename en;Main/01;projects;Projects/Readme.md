@@ -7,7 +7,7 @@ long_title: "My Projects - Zhifeng"
 
 ## Markdown Book Website: Full Stack Web Development
 
-- ([Markdown Book Chapter Link](/projects/mdbook/))
+- ([Markdown Book Chapter Link](/projects/mdtome/))
 
 My Markdown Book project is about rendering Markdown files into a structured website with custom components like visualizations and gadgets.
 

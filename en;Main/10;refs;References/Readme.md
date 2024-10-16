@@ -7,6 +7,10 @@ long_title: "My References - Zhifeng"
 
 This page lists some of my major references of my projects. I have read those papers in detail, to a reproducing-replicating level.
 
+## Book
+
+- Daniel Kahneman. (2011). _Thinking, fast and slow_. [[Link to reflection]](/refs/thinking_fast_and_slow/)
+
 ## Pascal Pons' Blogs about Solving Connect Four
 
 - Link: [blog.gamesolver.org (Last Accessed: 2024-05-25)](http://blog.gamesolver.org)

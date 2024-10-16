@@ -1,9 +1,9 @@
 ---
 description: "About the design of My Website."
-long_title: "My Markdown Book Project - Zhifeng"
+long_title: "My Markdown Tome Project - Zhifeng"
 ---
 
-# Markdown Book: rendering websites from Markdown files
+# Markdown Tome: rendering websites from Markdown files
 
 I was looking for a way to store and display my designs and visualizations accumulatively. After learning Next.js's idea of server-side rendering and the Rust [Rust Book](https://rust-book.cs.brown.edu/)'s content alignment and interactive code blocks, I feel I can render and combine markdown content files and my previous Three.js components into static webpages.
 
@@ -28,8 +28,9 @@ I love the idea of embedding visualizations in texts, sparing me for the trouble
 - Implemented a procedure to render navigation bars with a management of the encapsulated contents.
 - Implemented a procedure to turn Markdown files in folder structures into webpages along with dependency files like CSS and JavaScript files.
 
-# Timeline
+# Diary
 
+- **Sept 2024**: Updated the "Multi Scene One Canvas" design, enabling fullscreen.
 - **Aug 2024**: The program started to work. I managed to switch my website to the new design.
 - **June 2024**: I started to "clean room" and rebuild the idea using Rust-Lang.
 - **November 2023**: I started to use Next.js to build my own "mdbook" rendering program.

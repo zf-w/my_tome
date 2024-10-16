@@ -13,4 +13,4 @@ Huge thank you to those name-less people who have helped me. I greatly appreciat
 
 ### 20240907
 
-Thank you to the two girls who helped me to open the door when my key fob somehow was not working.
+Thank you to the two girls who helped me to open the door when my key fob was somehow not working.

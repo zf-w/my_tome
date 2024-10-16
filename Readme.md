@@ -2,8 +2,9 @@
 
 The repository of my tome, an archive of my thoughts, experiences, and feelings.
 
-## AGPL-3.0-only License Notice:
+## License: AGPL-3.0-only
 
+```license_notice
 Zhifeng's Tome Project
 Copyright (C) 2024  Zhifeng Wang (王之枫)
 
@@ -18,3 +19,4 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
