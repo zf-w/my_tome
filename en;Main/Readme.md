@@ -17,12 +17,6 @@ I'm **Zhifeng Wang**, currently an incoming senior year undergraduate student si
 
 # About My Website
 
-## Off Topic
-
-I would say Computer Science is about being considerate: (1) being considerate to and respectful to the world's natural laws, (2) being considerate to hardware, computer memory, compilers, and interpreters, and (3) being considerate to developers and users. However, balancing these factors can be very difficult.
-
-## Website Design
-
 The website's design resembles a book. The table of contents should be open by default, and you can use the top left button to toggle the table of contents menu.
 
 For the table of contents menu, you can click on the name of each "chapter" to go to the designated webpage.
@@ -63,7 +57,7 @@ Games are, to some extent, abstractions of the real world. I'm interested in the
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "3333",
-    "api_url": "http://www.zf-w.space/api/c4w7h6/solve",
+    "api_url": "https://www.zf-w.space/api/c4w7h6/solve",
     "camera_param": {
         "z": 0.8
     },
