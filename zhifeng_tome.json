@@ -1,14 +1,16 @@
 {
-  "book_dir": "D:/repos/tome",
+  "book_dir": "D:/repos/my_tome",
   "src_dir": "D:/repos/frontend_mdtome_src/min_src",
-  "web_root_out_dir": "D:/repos/my_server/public",
+  "web_root_out_dir": "D:/repos/my_heroku_server/public",
   "web_content_base_url": "",
   "web_source_base_url": "/src",
 
   "lang_strings": ["en", "zh"],
   "exts": {
+    "bhtree": ["three"],
     "con4": [],
     "con4_board": [],
+    "con4_bhtree": ["bhtree","con4","con4_board","con4_game", "con4_graph", "con4_graph_util", "graph_ctrl", "three", "san"],
     "con4_game": ["con4", "con4_board"],
     "con4_graph": [
       "con4",
@@ -26,29 +28,16 @@
     "three": [],
     "san": ["three"]
   },
+
   "pre_script_url_strings": ["/prelude.js"],
   "style_url_strings": ["/base.css"],
 
   "author_string": "Zhifeng 之枫 2024",
 
-  "lang_customizations_vec": [{
+  "lang_info_vec": [{
+    "lang_string": "en",
+    "left_nav_main_title_elem_string": "<h4>Contents</h4>",
     "left_nav_extension": [
-      "<div id=\"$nav_auth\">",
-      "<h4>Authentication</h4>",
-      "<div id=\"$nav_auth_guest\">",
-      "<form id=\"$nav_auth_form\">",
-      "<span>Username:</span>",
-      "<input id=\"$nav_auth_username_input\" type=\"text\" aria-label=\"Username\"/>",
-      "<span>Password:</span>",
-      "<input id=\"$nav_auth_password_input\" type=\"password\" aria-label=\"Password\"/>",
-      "<div id=\"$nav_auth_submit_btn_container\">",
-      "<input id=\"$nav_auth_submit_btn\" type=\"submit\"/>",
-      "</div>",
-      "</form>",
-      "</div>",
-      "<div id=\"$nav_auth_logged_in\">",
-      "</div>",
-      "</div>",
       "<div id=\"$nav_theme\">",
       "<h4>Themes</h4>",
       "<button class=\"nav_theme_btn\" id=\"$theme_zf_navy_btn\">Navy Blue</button>",
@@ -57,30 +46,19 @@
       "<div id=\"$nav_lang\">",
       "<h4>Languages</h4>",
       "<a class=\"nav_lang_link\" href=\"/zh/\">中文</a>",
-      "</div>",
+      "</div>"
+    ],
+    "end_nav_extension": [
       "<footer id=\"$nav_footer\">",
       "<h5>Designed by Zhifeng</h5>",
+      "<h5>Contact: <a href=\"mailto:zhifeng5@illinois.edu\">zhifeng5@illinois.edu</a></h5>",
       "<h5>&copy; Zhifeng 2024</h5>",
       "</footer>"
     ]
   },{
+    "lang_string": "zh",
+    "left_nav_main_title_elem_string": "<h4>目录</h4>",
     "left_nav_extension": [
-      "<div id=\"$nav_auth\">",
-      "<h4>登录</h4>",
-      "<div id=\"$nav_auth_guest\">",
-      "<form id=\"$nav_auth_form\">",
-      "<span>用户名:</span>",
-      "<input id=\"$nav_auth_username_input\" type=\"text\" aria-label=\"Username\"/>",
-      "<span>密码:</span>",
-      "<input id=\"$nav_auth_password_input\" type=\"password\" aria-label=\"Password\"/>",
-      "<div id=\"$nav_auth_submit_btn_container\">",
-      "<input id=\"$nav_auth_submit_btn\" type=\"submit\"/>",
-      "</div>",
-      "</form>",
-      "</div>",
-      "<div id=\"$nav_auth_logged_in\">",
-      "</div>",
-      "</div>",
       "<div id=\"$nav_theme\">",
       "<h4>颜色主题</h4>",
       "<button class=\"nav_theme_btn\" id=\"$theme_zf_navy_btn\">深蓝</button>",
@@ -89,9 +67,12 @@
       "<div id=\"$nav_lang\">",
       "<h4>语言</h4>",
       "<a class=\"nav_lang_link\" href=\"/\">English</a>",
-      "</div>",
+      "</div>"
+    ],
+    "end_nav_extension": [
       "<footer id=\"$nav_footer\">",
       "<h5>Designed by 之枫</h5>",
+      "<h5>联系: <a href=\"mailto:zhifeng5@illinois.edu\">zhifeng5@illinois.edu</a></h5>",
       "<h5>&copy; 之枫 2024</h5>",
       "</footer>"
     ]
