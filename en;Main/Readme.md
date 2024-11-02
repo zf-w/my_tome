@@ -3,17 +3,24 @@ description: "Thank you for visiting my website."
 long_title: "Main Page - Zhifeng"
 ---
 
-```fun_galaxy
+```json#fun_galaxy
 {
     "galaxy_param":{
         "branches":4
+    },
+    "camera_param": {
+        "position": {
+            "x": 0,
+            "y": -2,
+            "z": 2
+        }
     }
 }
 ```
 
 # Thank you for visiting Zhifeng's website
 
-I'm **Zhifeng Wang**, currently an incoming senior year undergraduate student single-majoring in Information Science + Data Science at the School of information science at the University of Illinois Urbana Champaign.
+Hi! I'm **Zhifeng Wang**, currently a class of 2025 undergraduate student single-majoring in Information Science + Data Science at the School of Information Science at the University of Illinois Urbana Champaign.
 
 # About My Website
 
@@ -21,7 +28,7 @@ The website's design resembles a book. The table of contents should be open by d
 
 For the table of contents menu, you can click on the name of each "chapter" to go to the designated webpage.
 
-I'm not a big fan of collapsable menus since too many layers of nested folders can be a little messy. To encapsulate contents, making it easier for readers and me to focus on a "subpart" of the book, the chapter names with **a line below** are the links indicating those contents are grouped. When you enter those "**subparts**", the contents "above" that level will disappear in the table of contents menu, but you can always go back by clicking the chapter name of the "parent" content (**always on the top and has a separation line under it**).
+I'm not a big fan of collapsable menus since too many layers of nested folders can be a little messy. To encapsulate contents, making it easier for readers and me to focus on a "subpart" of the book, the chapter names with a <svg width="14" height="14" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="m 6 0 L 0 10 L 12 10 Z" fill="currentColor"/></svg> are the links indicating those contents are grouped. When you enter those "**subparts**", the contents "above" that level will disappear in the table of contents menu, but you can always go back by clicking the chapter name of the "parent" content (**always on the top and has a separation line under it**).
 
 At the end of the page, there is another navigation bar to allow us to jump to the next or previous page, decided by a pre-order traversal of the content tree. This sometimes gets tricky when an encapsulated page node starts a subtree of contents that is not included in the table of contents. When we get those pages, a third link will let us go deeper into the subtree of contents.
 
@@ -53,7 +60,7 @@ I wish the website could be designed in a way that is flexible (allowing me to c
 
 Games are, to some extent, abstractions of the real world. I'm interested in the intelligence hidden behind the game-solving and learning process. I have currently made a perfect Connect Four solver that calculates the both-player-playing-optimally results and how soon they will reach that terminal result. Below is a visualization gadget of Connect Four game, drawing the states connections within 5-moves starting from the root-empty-board game state. And here is the **[link](/projects/game/)** to my reflections (to another part of my website).
 
-```con4_graph
+```json#con4_graph
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "3333",
@@ -67,14 +74,25 @@ Games are, to some extent, abstractions of the real world. I'm interested in the
 }
 ```
 
-A part of my initial goal is to design interactive gadgets to help me better understand the concepts Victor Allis is talking about. The interactive playground below is a reconstruction of Diagram 3.5 in Victor's paper, demonstrating the idea of "Odd and Even Threats." In the case below, the second player can not play the second column because the first player can win immediately with a threat in "b3". Sadly, the second player has no way to refute this threat in "b3." As soon as the fifth column is full, the second player will be forced to play in the second column. That's the idea of "zugzwang."
+```json#con4_bhtree
+{
+    "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json", "/src/assets/c4w7h6.len5.20240803.bht.json"],
+    "start_active_states_list": [0,2696, 2829,2851,2858,2862,1,2,3,4,5]
+}
+```
+
+The above visualization is my attempt at using an Octree data structure to quickly find information about a particular state. I'm very grateful that all the parts of my code can smoothly work together. The Octree structure is extracted from my Barnes-Hut Tree implementation for accelerating force simulations for my force-directed graph visualization implementation. I'm truly, truly grateful that all the parts worked together; at least no too-obvious problems.
 
 ### Graph Visualization
 
 Visualizing networks, or graphs, is also a long project that I have been working on. Since 2019, I have started learning and implementing the graph layout algorithm. I was hoping to visualize a small fingertip game. From reading Dr. Hu's journal about graph visualization, making Python implementations, reading and storing data in various forms, learning to render 3D webpages, and making the final webpage, it's indeed a very long journey.
 
-```graph
+```json#graph
 {
     "load": ["/src/assets/bht/Airfoil1.bht.test.json"]
 }
 ```
+
+## End Navigation
+
+The below links are the links that can bring you to the next page, trying to provide an experience of reading physical books.

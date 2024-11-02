@@ -3,7 +3,7 @@ description: "谢谢你来看我的网站."
 long_title: "网站主页 - 之枫"
 ---
 
-```fun_galaxy
+```json#fun_galaxy
 {
     "galaxy_param": {
         "branches": 4
@@ -34,7 +34,7 @@ long_title: "网站主页 - 之枫"
 
 这个就是我的个人网站. 我一直在思考如何去记录我的思考, 系统地积累下我的代码, 清楚的展示, 表达给别人. 这个网站是我用我自己的程序从 Markdown 渲染而来, 里面可以加入各种小插件, 就像您在上面看到地银河, 虽然现在它转啊转可能已经变成大饼了. 如何去系统地组织这些文字, 资源, 代码, 排版, 确实是一个很值得思考的问题. 这三年来, 我学习了 HTML, CSS, JavaScript, Angular.js, React.js, Three.js, Next.js, Tailswind. 慢慢地我感受到了不同的开发者的苦衷, 最终又回到了纯 HTML, CSS, JavaScript.
 
-```con4_graph
+```json#con4_graph
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "2737",

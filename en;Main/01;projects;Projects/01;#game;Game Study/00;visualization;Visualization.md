@@ -7,7 +7,7 @@ long_title: "Connect Four Visualization - Zhifeng"
 
 The gadget below is an interactive visualization of all Connect Four game states within five steps from the empty-board game state. The visualization consists of two parts: the 3D network (graph) visualization and the game board. We can use the game board to navigate through the states while seeing the change of paths in the network visualization above the board.
 
-```con4_graph
+```json#con4_graph
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "4757",

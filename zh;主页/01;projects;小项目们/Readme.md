@@ -19,7 +19,19 @@ long_title: "小项目们 - 之枫"
 
 这个是我时间跨度最长的一个想法了. 我从 2019 年开始思考如何能把网络漂亮的可视化. 当时我想可视化一个指尖游戏的游戏结构. 然后我就开始阅读 Dr.Hu 的一篇叫做"Efficient, high-quality force-directed graph drawing"的文章, 用 Python, C++, 和 Rust 迭代的实现, 加上学习 3D 网页技术去提升研究的有趣度和透明度加上展示最终结果.
 
-- ([游戏可视化链接](/demos/1111game/))
+```json#con4_graph
+{
+    "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
+    "following_actions_string": "47573",
+    "api_url": "https://www.zf-w.space/api/c4w7h6/solve",
+    "camera_param": {
+        "z": 2.0
+    },
+    "orbit_ctrl_param": {
+        "auto_rotate_speed": 0.1
+    }
+}
+```
 
 # 迷你项目
 

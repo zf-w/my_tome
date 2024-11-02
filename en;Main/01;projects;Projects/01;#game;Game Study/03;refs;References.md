@@ -5,9 +5,9 @@ long_title: "Solving Con4 References - Zhifeng"
 
 # Main Concepts References
 
-## Pascal Pons' article and Github Repository
+## Pascal Pons' article and GitHub Repository
 
-Link: [To My Reference](/refs/)
+Link: [To My Reference](/reading/)
 
 Pascal Pons' blogs discusses how to use various of algorithms and optimization techniques to solve the game Connect Four. Pascal iteratively introduced the concepts from shallow to deep: from how to represent a Connect Four state in computer to how to use memorizations to accelerate the computing process.
 
@@ -15,7 +15,7 @@ I have reproduced and replicated the results. I'm trying to learn a general sens
 
 ## Victor Allis's paper
 
-Link: [To My Reference](/refs/)
+Link: [To My Reference](/reading/)
 
 This is the paper I got confused about after it got into the knowledge-based part. But I feel it's getting clearer after I had my "demo"'s help. But with more experience in implementing the first-sight state game bound calculation. For example, if our opponent got two immediate winning positions in two different columns or one atop the one immediate one, we lose.
 

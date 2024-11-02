@@ -7,26 +7,31 @@ long_title: "My Timeline - Zhifeng"
 
 This is a good chance for me to clean up what I have been working on during the past years.
 
-## May 2024 - Present: Personal Website III
+| Time: yyyy-mm | One-Line Summary                                                                           |
+| :------------ | :----------------------------------------------------------------------------------------- |
+| 2024-05       | Making my own Static Website Generator using vanilla `JavaScript` and `Rust-Lang`          |
+| 2024-05       | Visualizing Connect Four Game Graph using `Three.js`                                       |
+| 2024-05       | Making my Barnes-Hut Tree Implementation `Rust-Lang` Crate                                 |
+| 2024-02       | Trying to accelerate the Connect Four solving process                                      |
+| 2023-12       | Solving Connect Four                                                                       |
+| 2023-11       | Refactor my Graph Layout algorithm in `Rust-Lang`                                          |
+| 2023-09       | Redesign my website using `Next.js`                                                        |
+| 2023-08       | Redesign my website using `React.js`                                                       |
+| 2023-05       | Refactor my Graph Layout algorithm in `C++`, with knowledge from UIUC CS128, CS225 courses |
+| 2023-02       | Visualizing One-Plus-One Game Graph, with `Three.js`                                       |
+| 2022-12       | Learning `Three.js` in an organized way, taking Bruno Simon's _Three.js Journey_ course    |
+| 2022-10       | Making interactive maze games to learn human learning patterns using `Angular.js`          |
+| 2022-01       | Making my personal website using `Angular.js` and `Express.js`                             |
+| 2021-12       | Learning Web Development                                                                   |
+| 2019-11       | Start to learn and implement Graph Layout algorithms using `Python`                        |
+| 2019-09       | Teaching Recursion Drawing in `Scratch`                                                    |
+| 2019-05       | Learning Non-line-of-sight Imaging                                                         |
+| 2019-01       | Plotting movie box-offices using `Python` and `Pandas`                                     |
+| 2018-09       | Having fun and "simulating" Three-body using `Python` and `Matplotlib`                     |
+| 2016-01       | Having fun with `Scratch` and recursive patterns like the Hilbert curve                    |
+| 2013-01       | Having fun with `Minecraft` commands and 'red stone' circuits                              |
 
-I have been dreaming about making my own static website generator and learning full-stack web development in depth. Next.js was pretty good, but I do feel it's not ideal for constantly adding new gadgets and rendering Markdown files into static sites. Anyway, the summer break is a good opportunity for me to think about the underlying structures of my website, relationships between pages, and importation between JavaScript files. Knowing the origination and purpose of every byte of my website (as much as possible) is very rewarding. Currently, in my understanding, except those from the "three.js" library, all bytes sent to the client browser are by my design.
-
-## May 2024 - Present: Visualizing Connect Four
-
-Visualizing the Connect Four game graph.
-
-## May 2024 - Present: Making a Barnes Hut Tree Rust crate
-
-Learning to write and publish my first open-source project. The project is for accelerating the n-body force calculation for force-directed graph layout algorithm.
-
-```graph
-{
-    "load": ["/src/assets/bht/Airfoil1.bht.test.json"],
-    "camera_param": {
-        "z": 2.0
-    }
-}
-```
+# To Organize
 
 ## Dec 2023 - Present: Solving Connect Four
 

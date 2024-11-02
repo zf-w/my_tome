@@ -5,7 +5,7 @@ long_title: "Implementing Barnes-Hut Tree - Zhifeng"
 
 # Barnes-Hut Tree for Quick N-body Force Calculation
 
-```graph
+```json#graph
 {
     "load": ["/src/assets/bht/Airfoil1.bht.test.json"]
 }

@@ -17,13 +17,11 @@ The challenges are about designing a pattern of organizing my projects, thoughts
 
 ## Game Study: Connect Four Solving
 
-- ([Link to Connect4 Solver](/demos/learning-connect4/))
-
 I have reproduced and replicated the results of Pascal Pons' blog post about strongly solving Connect-Four, implemented it in the Rust programming language, and deployed it on a server.
 
 I have also designed a visualization of its partial game graphs.
 
-```con4_graph
+```json#con4_graph
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "47573",
@@ -39,15 +37,13 @@ I have also designed a visualization of its partial game graphs.
 
 ## Graph Viz: Multi-level Force Directed Graph Layout
 
-- ([Link to game viz](/demos/1111game/))
-
 This is the longest project of mine. The idea started in Fall 2019. I wanted to visualize the structure of a small finger-tip game with a small number of possible states. The journey was also long, including reading Dr. Hu's paper about "Efficient, high-quality force-directed graph drawing", implementing the layout algorithm separately with Python, C++, and Rust in 2019, 2023, and 2024, and making the corresponding frontend and website to display and archive the results and visualizations.
 
 ## Implementing Barnes-Hut Tree
 
 The Barnes Hut Tree data structure is a key to accelerate the graph visualization algorithm by quickly and fairly approximate calculating N-body forces. This is a very interesting interdisciplinary data structure. The data structure is about both "structure" and "calculation". Here is a link to the documentation site [link](https://docs.rs/zhifeng_impl_barnes_hut_tree/).
 
-```graph
+```json#graph
 {
     "load": ["/src/assets/bht/Airfoil1.bht.test.json"]
 }
@@ -77,7 +73,7 @@ The website or webpage is mainly for Valentine's Day of 2024. It's a funny websi
 
 - Three.js practices
 
-```fun_galaxy
+```json#fun_galaxy
 {
     "galaxy_param": {
         "branches":3

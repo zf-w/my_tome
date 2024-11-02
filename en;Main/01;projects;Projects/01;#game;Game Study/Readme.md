@@ -5,7 +5,7 @@ long_title: "Solving Connect Four - Zhifeng"
 
 # Game Study: Solving Connect Four
 
-```con4_graph
+```json#con4_graph
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "2737",
@@ -37,7 +37,7 @@ I have been thinking about learning to solve classic board games like Connect 4 
 
 # Timeline
 
-- Aug 2024: Designing interative visualizations embedded in the Markdown Book format.
+- Aug 2024: Designing interative visualizations embedded in my Markdown Tome format.
 
 - May 2024: Starting to make Connect Four game graph visualizations.
 

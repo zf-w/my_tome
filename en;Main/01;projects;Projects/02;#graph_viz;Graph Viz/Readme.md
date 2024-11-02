@@ -7,7 +7,7 @@ long_title: "My Graph Visualization Project - Zhifeng"
 
 The graph drawing problem is about, in my understanding, given the connections between nodes, how to assign each node a physical position such that their physical distances reflect their "in graph" distances.
 
-```graph
+```json#graph
 {
     "load": ["/src/assets/Jagmesh1.20240531.graph.json"]
 }
@@ -62,7 +62,7 @@ How to put the original graph's fresh back onto the backbone of visualized coars
 
 This is a very interesting data structure that accelerates the N-body force calculation. To some extent, the tree is an intriguing bridge between areas of numeric calculations and data structures. In general, for a node, the mass point, the tree tries to treat a large group of relatively far away nodes as one single super node. In this way, we no longer need to loop through all the other nodes and calculate forces. In the visualization below, we can see how nodes in a single cell are treated as a supernode. And the supernode becomes small when its nodes are close to the target node.
 
-```graph
+```json#graph
 {
     "load": ["/src/assets/bht/Airfoil1.bht.test.json"],
     "camera_param": {
