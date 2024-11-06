@@ -7,6 +7,10 @@ long_title: "My October - 2024 - Study Diary - Zhifeng"
 
 ## Personal Study
 
+### Using Octree to Pinpoint Nodes
+
+I have been planning and dreaming about how to reversely get node information from the 3D graph for a long time. I'm not a fan of using my mouse to click on those tiny dots on the point and use 3D library's raycasting methods to find the node. Also, since I'm using points to render the 3D scene, I'm not sure how easily I can get the node index from the 3D library. I choose to use the Octree to find the state information of a dot. It's generally fast (I believe `O(log(number of nodes))`), fairly easy to implement solely by myself (and the interface), and I can reuse my previous implementation of `Barnes-Hut Tree`.
+
 ### Authentication
 
 One theme of my personal study for October is web authentication. Authentication is an important and interesting topic. I have learned a bit of authentication with `Express.js`, `MongoDB`, and `JavaScript`. It's time to try to implement and experiment with authentication functionalities on my own.

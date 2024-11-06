@@ -15,7 +15,7 @@ Visualizing the Connect Four game graph. There are many more tricky parts than w
 
 Learning to write and publish my first open-source project. The project is for accelerating the n-body force calculation for force-directed graph layout algorithm.
 
-```graph
+```json#graph
 {
     "load": ["/src/assets/bht/Airfoil1.bht.test.json"],
     "camera_param": {

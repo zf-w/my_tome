@@ -1,9 +1,9 @@
 ---
 description: "I listed some of the major readings I have been focusing on for better transparency and to be more helpful."
-long_title: "Reflections - Zhifeng"
+long_title: "Books Read - Zhifeng"
 ---
 
-# Reading Books
+# Books Read
 
 I guess it would be good practice for me to document the books and papers I have read and studied, especially those I tried to reproduce and replicate their results.
 
@@ -37,6 +37,8 @@ I guess it would be good practice for me to document the books and papers I have
 | Richard Dawkins  | 1976            | _The Selfish Gene_                     | Finsihed |
 
 ## To Organize
+
+I'm still thinking about how to organize papers and other materials I have read. Some, like the Rust programming language's book, are in the form of a website, and there is no formal ISBN?
 
 ### Papers
 
