@@ -22,43 +22,39 @@ long_title: "Main Page - Zhifeng"
 
 Hi! I'm **Zhifeng Wang**, currently a class of 2025 undergraduate student single-majoring in Information Science + Data Science at the School of Information Science at the University of Illinois Urbana Champaign.
 
-# About My Website
+Thanks again for visiting my website!
 
-The website's design resembles a book. The table of contents should be open by default, and you can use the top left button to toggle the table of contents menu.
+# Website Layout
 
-For the table of contents menu, you can click on the name of each "chapter" to go to the designated webpage.
+This website's layout is trying to mimic traditional books. There is a side "table of contents" navigation bar on the left side of each page and an end "flip page" navigation bar at the bottom. I have a special design that allows the book to have layers of nested content without making the table of contents grow too deep: "encapsulated" chapters. My design hides the sub-chapter structure of big chapters. Instead, when we navigate to these big chapters, the "table of contents" navigation bar will separately show the content structure above it and sub-chapters under the big chapter. When we dive into those chapters, the above content structure will be hidden to make the content list fairly clean. This design is kind of creating an auto folder collapsing effect.
 
-I'm not a big fan of collapsable menus since too many layers of nested folders can be a little messy. To encapsulate contents, making it easier for readers and me to focus on a "subpart" of the book, the chapter names with a <svg width="14" height="14" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="m 6 0 L 0 10 L 12 10 Z" fill="currentColor"/></svg> are the links indicating those contents are grouped. When you enter those "**subparts**", the contents "above" that level will disappear in the table of contents menu, but you can always go back by clicking the chapter name of the "parent" content (**always on the top and has a separation line under it**).
+# Website Content
 
-At the end of the page, there is another navigation bar to allow us to jump to the next or previous page, decided by a pre-order traversal of the content tree. This sometimes gets tricky when an encapsulated page node starts a subtree of contents that is not included in the table of contents. When we get those pages, a third link will let us go deeper into the subtree of contents.
+My website currently has three major parts: (1) my efforts, mainly focusing on my active things like personal projects and efforts, (2) reflections, focusing on relatively passive ideas, and (3) documentations, mainly about facts and records, including courses, books, papers read, and softwares used (in the future).
+
+One goal of my website is to provide some transparency in my study journey in the hope of helping my peer classmates. Maybe, potentially, it can be used for educational purposes.
 
 # Interests
 
-- AI, Machine Learning, LLM, Strongly Solving Games
-- "Intelligence" Visualization in Data Visualization (if there is such a thing).
-- Human Computer Interaction, Computer Science + Education
+- Computer Science + Education
+- Artificial Intelligence
+- "Intelligence" Visualization in Data Visualization.
 
-I'm interested in the topic of "learning", both in AIs and humans. How do AI learn from data and experiences and solve problems? How do different AI's structure design and random initial state affect their intuitions of decision makings and learning processes? How do data being abstracted and represented differently affect learning progress?
-
-For these problems, the boundary between AI and human learning becomes somewhat blurry. How do humans learn from inputs and experiences? How do different personal experiences affect people's problem-solving intuitions or heuristics? How can we systematically test, improve, and personalize learning experiences? How can we adjust textbooks and course designs based on students' responses? Those are indeed very interesting questions for me.
-
-Around the problem about how AI and human learn, I'm also interested in topics like how to visualize something like intelligence, intuition, heuristics, and calculation of best decisions. For games with clear-defined states, I guess graphs are a way to represent the game structure and players' strategies. One of my major individual research/project is about visualizing graphs.
-
-On the other less theoretical hand, I'm interested in designing systems that help me express, accumulate, and deliver my ideas. That's where the website comes from.
+How to be more considerate, how to communicate, how to learn and teach, and how to make decisions are some of my ultimate interests. Sometimes, thinking about these problems without a more formal, normative way of thinking can be difficult. I want to cut through these questions from the angle of AI and machine learning theories. For example, how to teach can be a very board question, but how to optimize a Connect Four "teacher" agent to quickly teach a machine learning agent can be a fairly narrow research problem. An even narrower question might be, what's the minimal information needed to instantly, i.e., without searching, solve the Connect Four game (of a particular board size). I guess we have to find the optimal and fastest solution before teaching students...
 
 ## Individual Projects
 
-The three individual projects below are closely intertwined to basically just visualize game graphs on the web. They took me five years, and I consider those efforts as after-school-full-time.
+My current individual and independent projects mainly focus on a small step of approaching the above problem: how can I visualize the Connect Four game along with every state's information and see if I can get any insights on patterns.
 
-### This Book-styled Website
+Then, there are three parallel directions: making a text-visualization friendly and "sustainably growable," i.e., I can constantly add new gadgets and vizs to it, solve Connect Four using traditional methods, and graph visualization.
 
-I have been trying to design a personal website that will allow me to constantly add content, reflections, and interactive gadgets like visualizations.
+### The Book-Style Website
 
-I wish the website could be designed in a way that is flexible (allowing me to constantly add new custom components like the graph visualizations), transparent (allowing me to control almost every aspect from the server to the client), content-focused (compared to focusing on layout and animations (important but should be secondary)), and enabling human-friendly writing experience (compared to computer-friendly). I guess it's inevitable for designers and programmers to constantly re-work their stuff, but I do sincerely hope there can be less re-work. I think one of the essenses of computer science would be try to avoid repeat works.
+The website-making project kicked off after I started my university education. I have documented all of my courses taken ([link](/docs/courses/)), including a bunch of Coursera courses on web development that started as soon as I started my Bachelor of Science education at UIUC. This project also aims to make my study journey more transparent in the hope of potentially helping my peer classmates and future academic advisors (if there is, just in case of dereferencing some `nullptr`).
 
 ### Game Study
 
-Games are, to some extent, abstractions of the real world. I'm interested in the intelligence hidden behind the game-solving and learning process. I have currently made a perfect Connect Four solver that calculates the both-player-playing-optimally results and how soon they will reach that terminal result. Below is a visualization gadget of Connect Four game, drawing the states connections within 5-moves starting from the root-empty-board game state. And here is the **[link](/projects/game/)** to my reflections (to another part of my website).
+The Connect Four solving project started in the fall semester of my junior year in college. Below are two of my visualizations of some of the opening board states.
 
 ```json#con4_graph
 {
@@ -74,6 +70,8 @@ Games are, to some extent, abstractions of the real world. I'm interested in the
 }
 ```
 
+The below visualization is my attempt at using an Octree data structure to quickly find information about a particular state. I'm very grateful that all the parts of my code can smoothly work together. The Octree structure is extracted from my Barnes-Hut Tree implementation for accelerating force simulations for my force-directed graph visualization implementation. I'm truly, truly grateful that all the parts worked together; at least no too-obvious problems.
+
 ```json#con4_bhtree
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json", "/src/assets/c4w7h6.len5.20240803.bht.json"],
@@ -81,17 +79,19 @@ Games are, to some extent, abstractions of the real world. I'm interested in the
 }
 ```
 
-The above visualization is my attempt at using an Octree data structure to quickly find information about a particular state. I'm very grateful that all the parts of my code can smoothly work together. The Octree structure is extracted from my Barnes-Hut Tree implementation for accelerating force simulations for my force-directed graph visualization implementation. I'm truly, truly grateful that all the parts worked together; at least no too-obvious problems.
-
 ### Graph Visualization
 
-Visualizing networks, or graphs, is also a long project that I have been working on. Since 2019, I have started learning and implementing the graph layout algorithm. I was hoping to visualize a small fingertip game. From reading Dr. Hu's journal about graph visualization, making Python implementations, reading and storing data in various forms, learning to render 3D webpages, and making the final webpage, it's indeed a very long journey.
+The graph visualization began as early as 2019. The work began with me trying to apologize to a classmate by visualizing a game. I have started learning and implementing the graph layout algorithm. From reading Dr. Hu's journal about graph visualization, making Python implementations, reading and storing data in various forms, learning to render 3D webpages, and making the final webpage, it's indeed a very long journey.
 
 ```json#graph
 {
     "load": ["/src/assets/bht/Airfoil1.bht.test.json"]
 }
 ```
+
+# Thank you
+
+Thanks again for your time and patience.
 
 ## End Navigation
 

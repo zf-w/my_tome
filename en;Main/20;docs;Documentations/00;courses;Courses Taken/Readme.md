@@ -40,7 +40,7 @@ Their devotion, dedication, and passion for teaching have made a huge difference
 | IS390   |  2024FA  | David Dubin                               | Decision Analysis and Modeling           | In-Progress |
 | IS445   |  2023FA  | Jill Naiman                               | Data Visualization                       | A           |
 | IS467   |  2024SP  | Peter Darch, Yuan-Xi Fu                   | Ethics & Policy for Data Scien           | A           |
-| IS477   |  2023FA  | Dertram Ludaescher, Craig Willis          | Data Mgmt, Curation, & Reprodu           | A+          |
+| IS477   |  2023FA  | Bertram Ludaescher, Craig Willis          | Data Mgmt, Curation, & Reprodu           | A+          |
 | MATH257 |  2024SP  | Jer-Chin Chuang                           | Linear Algebra w Computat Appl           | A+          |
 | SOCW297 |  2022SP  | David Chih                                | Asian Families in America                | A           |
 | STAT107 |  2022FA  | Karle Flanagan, Wade Fagen-Ulmschneider   | Data Science Discovery                   | A+          |
