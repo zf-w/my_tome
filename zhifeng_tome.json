@@ -1,11 +1,10 @@
 {
   "book_dir": "D:/repos/my_tome",
-  "src_dir": "D:/repos/frontend_mdtome_src/min_src",
-  "web_root_out_dir": "D:/repos/my_heroku_server/public",
+  "src_dir": "D:/repos/my_mdtome_client_src/min_src",
+  "web_root_out_dirs_vec": ["D:/repos/my_heroku_server/public", "D:/repos/zf-w.github.io"],
   "web_content_base_url": "",
   "web_source_base_url": "/src",
 
-  "lang_strings": ["en", "zh"],
   "exts": {
     "bhtree": ["three"],
     "con4": [],
@@ -26,7 +25,8 @@
     "graph": ["three", "san"],
     "graph_ctrl": ["three", "san"],
     "three": [],
-    "san": ["three"]
+    "san": ["three"],
+    "util_security_strhash": []
   },
 
   "pre_script_url_strings": ["/prelude.js"],
