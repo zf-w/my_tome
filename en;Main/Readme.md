@@ -36,17 +36,17 @@ One goal of my website is to provide some transparency in my study journey in th
 
 # Interests
 
-- Computer Science + Education
-- Artificial Intelligence
-- "Intelligence" Visualization in Data Visualization.
+My ultimate research interest is in understanding and improving teaching, education, and, more generally, human learning patterns systematically, in a sense, making a unified theory between machine learning and human learning and strategy making.
 
-How to be more considerate, how to communicate, how to learn and teach, and how to make decisions are some of my ultimate interests. Sometimes, thinking about these problems without a more formal, normative way of thinking can be difficult. I want to cut through these questions from the angle of AI and machine learning theories. For example, how to teach can be a very board question, but how to optimize a Connect Four "teacher" agent to quickly teach a machine learning agent can be a fairly narrow research problem. An even narrower question might be, what's the minimal information needed to instantly, i.e., without searching, solve the Connect Four game (of a particular board size). I guess we have to find the optimal and fastest solution before teaching students...
+To narrow down this topic, I want to research how to understand teaching and learning through the lens of Connect Four. For example, if we observe an agent playing certain moves on certain states, what can we infer about the agent's heuristic and searching patterns? How can we infer what the player's calculation and planning are? If we don't assume the player's goal, how can we infer their goal from the played moves? How can we teach the agent the optimal game heuristics by playing games with them and using game results to implicitly shape their heuristics or understanding? How can we deliver the optimal game heuristics to the agents through natural or math language without playing? How can machines summarize, find, and deliver those heuristics in human-understandable ways?
+
+To further break down the questions, I asked myself some questions and solved some of them: how can I get the perfect solutions for Connect Four? How can I visualize the Connect Four to cross-verify the solution results and, hopefully, get some insights about the game and different heuristics?
+
+Furthermore, on another path, taking away from digital humanities courses and data management, transparency, and ethics courses, I asked myself what's the best way to document and demonstrate my works and efforts along the way, cumulatively and sustainably?
+
+To answer and solve these questions, I spent my undergraduate years focusing on the following projects.
 
 ## Individual Projects
-
-My current individual and independent projects mainly focus on a small step of approaching the above problem: how can I visualize the Connect Four game along with every state's information and see if I can get any insights on patterns.
-
-Then, there are three parallel directions: making a text-visualization friendly and "sustainably growable," i.e., I can constantly add new gadgets and vizs to it, solve Connect Four using traditional methods, and graph visualization.
 
 ### The Book-Style Website
 
@@ -54,7 +54,7 @@ The website-making project kicked off after I started my university education. I
 
 ### Game Study
 
-The Connect Four solving project started in the fall semester of my junior year in college. Below are two of my visualizations of some of the opening board states.
+I have read and learned Pascal Pons' blog [blog.gamesolver.org (Last Accessed: 2024-05-25)](http://blog.gamesolver.org) on make a Connect Four solver and implemented my own, along side making visualizations.
 
 ```json#con4_graph
 {
@@ -81,7 +81,17 @@ The below visualization is my attempt at using an Octree data structure to quick
 
 ### Graph Visualization
 
-The graph visualization began as early as 2019. The work began with me trying to apologize to a classmate by visualizing a game. I have started learning and implementing the graph layout algorithm. From reading Dr. Hu's journal about graph visualization, making Python implementations, reading and storing data in various forms, learning to render 3D webpages, and making the final webpage, it's indeed a very long journey.
+The graph visualization began as early as 2019. The work began with me trying to apologize to a classmate by visualizing a game. I have started learning and implementing the graph layout algorithm. From reading Dr. Hu Yi-Fan's journal about graph visualization, making Python implementations, reading and storing data in various forms, learning to render 3D webpages, and making the final webpage, it's indeed a very long journey.
+
+```json#graph
+{
+    "load": ["/src/assets/Jagmesh1.20240531.graph.json"]
+}
+```
+
+### The Barnes-Hut Tree
+
+To accelerate the graph visualization process, I learned, implemented, and published my library of Barnes-Hut Tree implementation.
 
 ```json#graph
 {
