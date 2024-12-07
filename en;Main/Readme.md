@@ -22,8 +22,6 @@ long_title: "Main Page - Zhifeng"
 
 Hi! I'm **Zhifeng Wang**, currently a class of 2025 undergraduate student single-majoring in Information Science + Data Science at the School of Information Science at the University of Illinois Urbana Champaign.
 
-Thanks again for visiting my website!
-
 # Website Layout
 
 This website's layout is trying to mimic traditional books. There is a side "table of contents" navigation bar on the left side of each page and an end "flip page" navigation bar at the bottom. I have a special design that allows the book to have layers of nested content without making the table of contents grow too deep: "encapsulated" chapters. My design hides the sub-chapter structure of big chapters. Instead, when we navigate to these big chapters, the "table of contents" navigation bar will separately show the content structure above it and sub-chapters under the big chapter. When we dive into those chapters, the above content structure will be hidden to make the content list fairly clean. This design is kind of creating an auto folder collapsing effect.
@@ -36,13 +34,19 @@ One goal of my website is to provide some transparency in my study journey in th
 
 # Interests
 
-My ultimate research interest is in understanding and improving teaching, education, and, more generally, human learning patterns systematically, in a sense, making a unified theory between machine learning and human learning and strategy making.
+## Research Interests
 
-To narrow down this topic, I want to research how to understand teaching and learning through the lens of Connect Four. For example, if we observe an agent playing certain moves on certain states, what can we infer about the agent's heuristic and searching patterns? How can we infer what the player's calculation and planning are? If we don't assume the player's goal, how can we infer their goal from the played moves? How can we teach the agent the optimal game heuristics by playing games with them and using game results to implicitly shape their heuristics or understanding? How can we deliver the optimal game heuristics to the agents through natural or math language without playing? How can machines summarize, find, and deliver those heuristics in human-understandable ways?
+My research interests are in Computer Science + Education, trying to find and use systematic ways to personalize and accelerate learning processes.
 
-To further break down the questions, I asked myself some questions and solved some of them: how can I get the perfect solutions for Connect Four? How can I visualize the Connect Four to cross-verify the solution results and, hopefully, get some insights about the game and different heuristics?
+For example, computer science students experience various misconceptions about computer science concepts, ways of thinking, programming languages, and tools. Instructors frequently find the "superbug" among students: "the tendency to expect computers to correctly interpret student actions and do the right thing." How did the teachers find the patterns of misconceptions and grouping them into the "superbug"?
 
-Furthermore, on another path, taking away from digital humanities courses and data management, transparency, and ethics courses, I asked myself what's the best way to document and demonstrate my works and efforts along the way, cumulatively and sustainably?
+Seeking to understand the above process in a simpler context, I choose to research the game of Connect Four, a complicated enough yet brute-force perfectly solvable game, and try to see if it's possible to find patterns of misconceptions or wrong heuristics among machine learning agents, and hopefully also applies to human students, during their learning process. It would be interesting to see a teacher agent being able to teach various machine learning agents in different architectures differently and optimize their respective learning processes.
+
+Furthermore, how can we expand the state and action models into real-world education scenarios? Can we view coding as a game of characters or elements of syntax tree or use social media as a game of swiping, liking, and setting privacy preferences?
+
+## Design and Develop Interests
+
+On the other hand, I'm interested in design educational platforms that can group every element of learning together: reading materials, lecture slides, lecture recordings, homework, assignments, and visualizations. This is the ultimate mission of this website (which is still under very active construction).
 
 To answer and solve these questions, I spent my undergraduate years focusing on the following projects.
 
@@ -50,7 +54,31 @@ To answer and solve these questions, I spent my undergraduate years focusing on 
 
 ### The Book-Style Website
 
-The website-making project kicked off after I started my university education. I have documented all of my courses taken ([link](/docs/courses/)), including a bunch of Coursera courses on web development that started as soon as I started my Bachelor of Science education at UIUC. This project also aims to make my study journey more transparent in the hope of potentially helping my peer classmates and future academic advisors (if there is, just in case of dereferencing some `nullptr`).
+The website-making project kicked off after I started my university education. I have documented all of my courses taken ([link](/docs/courses/)), including a bunch of Coursera courses on web development that started as soon as I started my Bachelor of Science education at UIUC. This project also aims to make my study journey more transparent in the hope of potentially helping my peer classmates and future academic advisors and supervisors.
+
+### Digital Humanity
+
+```json#graph_group
+{
+    "load": ["/src/assets/hlm_poem_zhy_c_98_to_104.json"],
+    "graph_info_list": [
+      {"resrc_idx": 0, "obj_path": [0], "position": [-2,1,0]},
+      {"resrc_idx": 0, "obj_path": [1], "position": [-0,1,-0.1]},
+      {"resrc_idx": 0, "obj_path": [2], "position": [2,1,0.1]},
+      {"resrc_idx": 0, "obj_path": [3], "position": [-3.3,-1,-0.1]},
+      {"resrc_idx": 0, "obj_path": [4], "position": [-1.5,-1,0.1]},
+      {"resrc_idx": 0, "obj_path": [5], "position": [0,-1,0]},
+      {"resrc_idx": 0, "obj_path": [6], "position": [1.5,-1,0]},
+      {"resrc_idx": 0, "obj_path": [7], "position": [3,-1,0]},
+    ],
+    "config": {
+      "camera_param": {
+        "z": 3.0
+      }
+    },
+    "height": "400px"
+}
+```
 
 ### Game Study
 
