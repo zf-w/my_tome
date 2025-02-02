@@ -25,7 +25,7 @@ I have also designed a visualization of its partial game graphs.
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "47573",
-    "api_url": "https://www.zf-w.space/api/c4w7h6/solve",
+    "api_url": "https://con4.zf-w.space/c4w7h6",
     "camera_param": {
         "z": 2.0
     },
@@ -45,7 +45,7 @@ The Barnes Hut Tree data structure is a key to accelerate the graph visualizatio
 
 ```json#graph
 {
-    "load": ["/src/assets/bht/Airfoil1.bht.test.json"]
+    "load": ["/src/assets/bht/airfoil1.bht.test.json"]
 }
 ```
 

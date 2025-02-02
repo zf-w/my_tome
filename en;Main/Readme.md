@@ -22,15 +22,53 @@ long_title: "Main Page - Zhifeng"
 
 Hi! I'm **Zhifeng Wang**, currently a class of 2025 undergraduate student single-majoring in Information Science + Data Science at the School of Information Science at the University of Illinois Urbana Champaign.
 
+Thank you for your time and patience. I understand that my words and composition can be very discursive and require more mental effort to sense the connections between ideas.
+
+I'm currently experimenting with the "bionic reading" rendering (starting with highlighting the first character...).
+
+Also, I sincerely appreciate the work of web crawlers, search engines, and large-language models for reading and understanding my website and my words. Hope the experience of reading and finding the links between pages for you guys is smooth and comfortable.
+
+# Statement on Inclusivity
+
+I support diversity of worldviews, histories, and cultural knowledge across a range of social groups, including race, ethnicity, gender identity, sexual orientation, abilities, economic class, religion, and their intersections. I support idea and information transmission with informed consent. I hope this website and my other efforts can help create a safe, transparent, and privileged-bias-free learning environment. I believe being inclusive is an act of courage, altruism, and long sight.
+
+```json#graph_group
+{
+    "load": ["/src/assets/hlm_poem_zhy_c_98_to_104.json"],
+    "graph_info_list": [
+      {"resrc_idx": 0, "obj_path": [0], "position": [-2,1,0]},
+      {"resrc_idx": 0, "obj_path": [1], "position": [-0,1,-0.1]},
+      {"resrc_idx": 0, "obj_path": [2], "position": [2,1,0.1]},
+      {"resrc_idx": 0, "obj_path": [3], "position": [-3.3,-1,-0.1]},
+      {"resrc_idx": 0, "obj_path": [4], "position": [-1.5,-1,0.1]},
+      {"resrc_idx": 0, "obj_path": [5], "position": [0,-1,0]},
+      {"resrc_idx": 0, "obj_path": [6], "position": [1.5,-1,0]},
+      {"resrc_idx": 0, "obj_path": [7], "position": [3,-1,0]},
+    ],
+    "config": {
+      "camera_param": {
+        "z": 3.0
+      }
+    },
+    "height": "400px"
+}
+```
+
 # Website Layout
+
+I'm trying to make this website genuine and helpful. Long way to go.
 
 This website's layout is trying to mimic traditional books. There is a side "table of contents" navigation bar on the left side of each page and an end "flip page" navigation bar at the bottom. I have a special design that allows the book to have layers of nested content without making the table of contents grow too deep: "encapsulated" chapters. My design hides the sub-chapter structure of big chapters. Instead, when we navigate to these big chapters, the "table of contents" navigation bar will separately show the content structure above it and sub-chapters under the big chapter. When we dive into those chapters, the above content structure will be hidden to make the content list fairly clean. This design is kind of creating an auto folder collapsing effect.
 
-# Website Content
+## Website Content
 
 My website currently has three major parts: (1) my efforts, mainly focusing on my active things like personal projects and efforts, (2) reflections, focusing on relatively passive ideas, and (3) documentations, mainly about facts and records, including courses, books, papers read, and softwares used (in the future).
 
 One goal of my website is to provide some transparency in my study journey in the hope of helping my peer classmates. Maybe, potentially, it can be used for educational purposes.
+
+## Privacy
+
+The website will store your theme and the state of the sidebar inside your browser's local storage.
 
 # Interests
 
@@ -56,30 +94,6 @@ To answer and solve these questions, I spent my undergraduate years focusing on 
 
 The website-making project kicked off after I started my university education. I have documented all of my courses taken ([link](/docs/courses/)), including a bunch of Coursera courses on web development that started as soon as I started my Bachelor of Science education at UIUC. This project also aims to make my study journey more transparent in the hope of potentially helping my peer classmates and future academic advisors and supervisors.
 
-### Digital Humanity
-
-```json#graph_group
-{
-    "load": ["/src/assets/hlm_poem_zhy_c_98_to_104.json"],
-    "graph_info_list": [
-      {"resrc_idx": 0, "obj_path": [0], "position": [-2,1,0]},
-      {"resrc_idx": 0, "obj_path": [1], "position": [-0,1,-0.1]},
-      {"resrc_idx": 0, "obj_path": [2], "position": [2,1,0.1]},
-      {"resrc_idx": 0, "obj_path": [3], "position": [-3.3,-1,-0.1]},
-      {"resrc_idx": 0, "obj_path": [4], "position": [-1.5,-1,0.1]},
-      {"resrc_idx": 0, "obj_path": [5], "position": [0,-1,0]},
-      {"resrc_idx": 0, "obj_path": [6], "position": [1.5,-1,0]},
-      {"resrc_idx": 0, "obj_path": [7], "position": [3,-1,0]},
-    ],
-    "config": {
-      "camera_param": {
-        "z": 3.0
-      }
-    },
-    "height": "400px"
-}
-```
-
 ### Game Study
 
 I have read and learned Pascal Pons' blog [blog.gamesolver.org (Last Accessed: 2024-05-25)](http://blog.gamesolver.org) on make a Connect Four solver and implemented my own, along side making visualizations.
@@ -88,7 +102,7 @@ I have read and learned Pascal Pons' blog [blog.gamesolver.org (Last Accessed: 2
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "3333",
-    "api_url": "https://www.zf-w.space/api/c4w7h6/solve",
+    "api_url": "https://con4.zf-w.space/c4w7h6",
     "camera_param": {
         "z": 0.8
     },
@@ -113,7 +127,7 @@ The graph visualization began as early as 2019. The work began with me trying to
 
 ```json#graph
 {
-    "load": ["/src/assets/Jagmesh1.20240531.graph.json"]
+    "load": ["/src/assets/jagmesh1.20240531.graph.json"]
 }
 ```
 
@@ -123,7 +137,7 @@ To accelerate the graph visualization process, I learned, implemented, and publi
 
 ```json#graph
 {
-    "load": ["/src/assets/bht/Airfoil1.bht.test.json"]
+    "load": ["/src/assets/bht/airfoil1.bht.test.json"]
 }
 ```
 
