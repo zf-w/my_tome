@@ -1,13 +1,13 @@
 ---
 description: "References are about my interactions with other people or objects."
-long_title: "References - Zhifeng"
+long_title: "Notes - Zhifeng"
 ---
 
-# References
+# Notes
 
-The reference section is more about my relationship with other people, ideas, and the world.
+The notes section is more about my relationship with other people, ideas, and the world.
 
-## Best Reference
+## Best Novel
 
 I would say Xue-Qin Cao (曹雪芹)'s _Dream of the Red Chamber/Mansion/Abbey_ (_红楼梦_) is my favorite; the best book that I find aligning with my own concerns, personalities, and goals. The author's comprehensive observations of the world, people's personalities and dynamics, and his philosophy deeply touched me.
 

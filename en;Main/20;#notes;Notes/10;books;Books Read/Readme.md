@@ -9,7 +9,7 @@ I guess it would be good practice for me to document the books and papers I have
 
 ## My Favorite: _Dream Of The Red Chamber_
 
-- Xue-Qin(Snow Celery) Cao. (18th century). _Dream Of The Red Chamber_.
+- Xue-Qin Cao. (18th century). _Dream Of The Red Chamber_.
 
 ## Books
 
