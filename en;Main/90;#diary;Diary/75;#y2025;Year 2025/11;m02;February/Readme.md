@@ -3,6 +3,22 @@ description: "The second month of 2025."
 long_title: "Feb. 2025 - Diary - Zhifeng"
 ---
 
+# February 18th
+
+Today, I went to County Market to buy some groceries, including Essential EVERYDAY's Cranberry Chocolate Nut Trail Mix (I think it's a new type) ($5.29), Wlide Protein Chips Waffle Flavor ($3.69), PraireFarm Sweet Iced Tea ($2.49), and Chop House Smashed Burger ($14.89).
+
+When I was going to check out, I suddenly found that my cell phone was missing. The nice cashier helped me to save the "basket" for me. After crossing the road, I remembered that my phone was in another pocket, an unusual one. I quickly returned to the store, checked out, and thanked the cashier.
+
+Thanks again to the kind cashier for saving me in such an awkward moment.
+
+# mp:shell:part2
+
+Amazing! I got passed the testcases without any twists or bumps!
+
+# February 16th
+
+In recent days, LeetCode's daily questions have been about recursion. I was just wondering what the official name for "daily questions" is, whether they are called problems or questions. Funny, they are called daily questions on the webpage but are also called problems inside the web URL.
+
 # February 13th
 
 For the past several days, I have been mainly working on CS341's MP Shell (including Leetcode daily problems). The experience was great. But it can be a little sad when I can't learn which part went wrong (but, luckily, I guess such things will never happen if you are just developing your own stuff.)
