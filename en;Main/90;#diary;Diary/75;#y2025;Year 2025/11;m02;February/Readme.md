@@ -3,6 +3,18 @@ description: "The second month of 2025."
 long_title: "Feb. 2025 - Diary - Zhifeng"
 ---
 
+# Februray 28th
+
+Documented this month's Leetcode mini problems.
+
+# February 26th
+
+The MP 'malloc' went smoother than I thought!
+
+# Februray 24th
+
+The board game experiment project went smoother than I thought. Everything worked as I planned.
+
 # February 18th
 
 Today, I went to County Market to buy some groceries, including Essential EVERYDAY's Cranberry Chocolate Nut Trail Mix (I think it's a new type) ($5.29), Wlide Protein Chips Waffle Flavor ($3.69), PraireFarm Sweet Iced Tea ($2.49), and Chop House Smashed Burger ($14.89).
