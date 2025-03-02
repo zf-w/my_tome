@@ -11,7 +11,7 @@ The gadget below is an interactive visualization of all Connect Four game states
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "4757",
-    "api_url": "https://www.zf-w.space/api/c4w7h6/solve",
+    "api_url": "https://con4.zf-w.space/c4w7h6",
     "camera_param": {
         "z": 1.5
     },

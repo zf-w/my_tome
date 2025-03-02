@@ -7,7 +7,7 @@ long_title: "Implementing Barnes-Hut Tree - Zhifeng"
 
 ```json#graph
 {
-    "load": ["/src/assets/bht/Airfoil1.bht.test.json"]
+    "load": ["/src/assets/bht/airfoil1.bht.test.json"]
 }
 ```
 

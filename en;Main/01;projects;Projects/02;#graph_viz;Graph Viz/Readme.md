@@ -9,7 +9,7 @@ The graph drawing problem is about, in my understanding, given the connections b
 
 ```json#graph
 {
-    "load": ["/src/assets/Jagmesh1.20240531.graph.json"]
+    "load": ["/src/assets/jagmesh1.20240531.graph.json"]
 }
 ```
 
@@ -27,6 +27,8 @@ The graph drawing problem is about, in my understanding, given the connections b
 - Learned a bunch of web technologies, including HTML, CSS, and JavaScript, to render the 3D graph visualization results on webpages.
 
 # Timeline
+
+- **June 2024**: I implemented my Barnes-Hut Tree in Rust and published a "crate".
 
 - **October 2023**: I began to refactor the algorithm in Rust-Lang.
 

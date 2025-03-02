@@ -9,13 +9,21 @@ long_title: "Message Hasher- Util - Zhifeng"
 {}
 ```
 
+(The tool should be above. Curious about why sometimes it disappears...)
+
 # Usage
 
 You can just type in or paste texts into the textbox above and copy the hash value "fingerprint" from the topmost box.
 
-# Example Use Cases
+# Idea
 
-## Apologizing Tool
+You can think of this as some kind of blender, breaking your texts "fruits" into "juice". The funny blender promises that you will get completely identical cups of "juice" if you put in the same "fruits" in the same order, and you will not get similar "juice" even if there are only subtle differences in the fruit. In other words, it guarantees that there is no way to rebuild or even find what "fruits" you have put into the blender based on the "juice."
+
+More magically, no matter how many "fruits" you put into the blender, you will always get the same amount of juice. (a little bit irrelevant but interesting)
+
+# Daily Examples
+
+## Apology Utility
 
 Suppose you have accidentally said something that might be potentially offensive to a particular group; you want to apologize but also don't want to remind them about the specific offensive point if they haven't thought about that.
 
@@ -34,6 +42,25 @@ After both players receive their opponents' game move "fingerprint", they can re
 Assuming it's tough or almost impossible to find three secret messages respectively representing "Rock", "Paper", and "Scissor" but having the same "fingerprint", this method might enable people to play "Rock, Paper, and Scissor" "online", e.g., with paper mail.
 
 In addition, people can also pick three different values representing "Rock", "Paper", and "Scissor" to make finding a "collision" harder at least in a short period of time, for example, "In this game, we will use 'hwuiqjinxin' to represent 'Rock'."
+
+# "Privileged Bias" Acknowledgement
+
+If you feel the above content is confusing, it's definitely my problem, not yours in any way.
+
+Taking away from the IS308: Race, Gender, and Information Technology by David Mussulman that I took in Fall 2022 and other courses like INFO303, I understand that different experiences of thinking under different subjects or methodology or even different tool preferences like using "Microsoft Word" or "Google Doc" can create drastically different problem-solving or daily thinking heuristics. I'm not saying that I understand certain problems; it's just that my experience in coding and learning might make me ignore difficulties or confusion faced by people familiar with other fields and view things from different perspectives. I guess people who have a lot of "writing to human" experience might say, "Why did he write things in this weird way?"
+
+So, it's definitely **NOT** your problem. It's always my problem to think from different perspectives.
+
+Please let me know if you think somewhere might be able to improve.
+
+## Thank You
+
+And thank you to those who gave me advice on writing this page. I appreciate your time and help. To protect privacy, I have "blended" the names using the top tools.
+
+|                                            Thank you                                             |
+| :----------------------------------------------------------------------------------------------: |
+| 94daecd41148955a16dcbb4928ea7a8adc632aaa2dc78155252576632c8a354692314004313a88f1e1d2cc233d69944b |
+| f46e0e4e05376c1a8decb59d17a8549b26f184a2517cd6908895208a0f5173dd8a429a7635fbb40a2658e3babe4d8bfb |
 
 # Transparency and Implementation
 
