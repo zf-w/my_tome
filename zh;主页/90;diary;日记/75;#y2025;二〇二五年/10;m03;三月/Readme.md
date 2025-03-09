@@ -3,6 +3,18 @@ description: "之枫的二〇二五年三月日记."
 long_title: "三月 - 二〇二五年 - 日记 - 之枫"
 ---
 
+# 三月八日周六
+
+## 作业
+
+今天中午把惦记很久的`realloc`时候检查能不能不挪位置实现了一下. 遇到了一个蛮有趣的小 bug 是, 虽然在 split 一个"free"的"node"的时候不用考虑后面是不是"free"的, 但是在"split"一个"in-use"的"node"的时候是需要的. 我觉得应该足够拿到全部分数了. 不过我还是有一些想法感觉还可以再试一试.
+
+## 采购
+
+在 County Market 购买了 Everyday-Essentials Trail Mix-Island (EE Trail Mix-Island) $5.29, WILDE Protein Chips (Wilde Spice Queso) $3.69, 和 Prairie Farm Sweet Iced Tea (Sweet Iced Tea) $2.49.
+
+感觉很久没有在周六去超市了, 人比我想象的要多. 一些收银机似乎不明原因也没有撑过 Stress Test.
+
 # 三月七日周五
 
 ## 采购
