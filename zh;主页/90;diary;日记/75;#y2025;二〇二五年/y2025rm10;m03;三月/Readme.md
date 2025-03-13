@@ -3,6 +3,24 @@ description: "之枫的二〇二五年三月日记."
 long_title: "三月 - 二〇二五年 - 日记 - 之枫"
 ---
 
+# 三月十二日周三
+
+今天上课有点小感冒. 反正我也写完了 Lab 和 MP, 就寻思去趟洗手间洗一下脸. 和助教说话的时候貌似有鼻涕. 我很抱歉. 然后我听到了两个助教聊天, 凡心偶炽想借这个机会说一下我其实写完了 MP, 而不是因为春假没有提前看. 于是我就大致问了一下, 我不小心 overheard 了谈话, 应该我测试点都过了就没事吧, 助教说没事, 我就谢谢了然后走了. 我很抱歉. 我在谈话过程中还忘记了助教们的名字, 然后不知道怎么 refer 哈哈, 有点尴尬, 我很抱歉.
+
+## 采购
+
+在 County Market 购买了 Aunt Millie's Half Loaf Seedless Rye Bread(AM Half Loaf Seedle) $1.99, Arizona Sweet Tea Half Iced Tea & Half Lemonade (Arizona MRNLO PL) $3.99, Culinary Elements Non-Stick Soup Pot (GL Soup Pot) $6.99, 和 Wrights Hickory 3/2 Pounds Thick-Cut Bacon Real Wood Smoked (Wrights Sik Pak Baco) $13.99.
+
+# 三月十一日周二
+
+买完东西出来, 在街上碰到几个人并排走路. 突然她们停下来拍照, 我就从左边绕开. 过程中一个人发现了我, 说了"sorry", 但是我已经在左前方一定距离了, 感觉回头再说话会有些尴尬, 就没回应. 我很抱歉.
+
+## 采购
+
+在 Target 购买了 饮用水 (Pure Life) $2.69, Doughlicious Chocolate Truffle (Doughlicious) $6.99, (Fairlife) $5.29, Good and Gather Mix Nuts (GG Mix Nuts) $5.29, 和 Lay's Original (Lay's) $2.59.
+
+# 三月十日周一
+
 # 三月八日周六
 
 ## 作业
