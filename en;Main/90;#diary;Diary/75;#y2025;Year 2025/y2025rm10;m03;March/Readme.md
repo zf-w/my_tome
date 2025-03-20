@@ -9,7 +9,17 @@ The beginning of March is mainly about the "Machine Problem" of "uiuc/cs341": "m
 
 I do sometimes feel that the starting "intuition" or "heuristic" of design is quite important. A good heuristic helps solve edge cases.
 
-# Sunday, March 2025
+# Saturday, March 15th, 2025
+
+I went to McDonald's to pick up some burgers. I'm sincerely thankful to the cashier. She replied to my "Thank you. Have a good day." with "Thank you very much." The whole dialogue was "... Have a good day", "Thank you. Have a good day", and "Thank you very much".
+
+I got rejected by UIUC's CS Ph.D. program.
+
+# Thursday, March 13th, 2025
+
+I'm sorry that I forgot to return my shopping basket after checking out.
+
+# Sunday, March 9th, 2025
 
 Chore works are also about datastructures. I might need to think more about what's on the heap and what's on the stack. Recently, I'm trying to put food packages of similar shape, material, and size into one batch.
 

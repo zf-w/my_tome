@@ -1,3 +1,8 @@
+---
+description: "This page is Zhifeng's Diary of September 2024."
+long_title: "Sept. 2024 - Study Diary - Zhifeng"
+---
+
 # September 2024
 
 ## September 27th, Friday

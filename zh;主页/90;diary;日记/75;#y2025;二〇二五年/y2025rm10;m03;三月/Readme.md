@@ -3,6 +3,44 @@ description: "之枫的二〇二五年三月日记."
 long_title: "三月 - 二〇二五年 - 日记 - 之枫"
 ---
 
+# 三月十八日周二
+
+> I believe in God, the Father almighty, creator of heaven and earth. And in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit. And born of the Virgin Mary. He suffered under Pontius Pilate, was crucified, died and was buried. He descended into hell, on the third day He rose again. He ascended into heaven, and is seated at the right hand of God the Father Almighty. He will come again to judge the living and the dead. I believe in the Holy Spirit, the Holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.
+
+# 三月十七日周一
+
+如何才算是更有道德的撕开包装确实是个有趣的话题(对于我来说). 或许要点在于尽可能少的破坏其原有的结构, 理解设计者的想法, 比如说如果有能撕开粘上的部分就比剪开要好.
+
+冲洗了一下冰箱冷冻层的侧栏?
+
+可以说每个人都有一个想要实现的"state"嘛.
+
+## 采购
+
+我在 Target 购买了 Kettle Cooked Potation Chips Sea salt Vinegar Flavor (SIETE) $3.99, 两份意大利面 (Stouffers) $3.89, Good and Gather Cesar Salad (GG Salads) $3.99, 和 Good and Gather Ribeye Steak (GG Beef) $19.19, 和 Good and Gather Ribeye Steak (GG Beef) $19.19.
+
+# 三月十六日周日
+
+清理灶台的时候有一张厨房纸忘了合影了, 我十分抱歉. 看来尽可能还是一张一张的使用比较稳妥, 两张一起就有点手忙脚乱, 乱了分寸.
+
+## 采购
+
+我在 Target 购买了饮用水(Fair Life) $5.29, Instant Oatmeal Fruit & Cream (Quaker) $2.96/3.29, Oats overnight Chocolate Peanut Butter (Oatovernight) $3.79, Oats overnight Strawberries & Cream (Oatovernight) $3.79, 和 Kinder Bueno Mini Share Pack (Kinder Bueno) $7.19.
+
+# 三月十五日周六
+
+## 采购
+
+我在 Target 购买了饮用水(Pure Life) $2.69, Good and Gather Crunchy Mango Cashews (Goodgather) $4.00, Oats overnight Chocolate Peanut Butter (Oatovernight) $3.79, 和 Oats overnight Strawberries & Cream (Oatovernight) $3.79.
+
+# 三月十三日周四
+
+## 采购
+
+我在 Target 采购了两份速食意面(Stouffers) $3.89, 两份 Maple Brown Sugar 味道的 Overnight Oats $3.79, Good and Gather Crunchy Cashews(Goodgather) $4.00.
+
+我很抱歉我似乎好像忘记在付款后放回我的购物筐.
+
 # 三月十二日周三
 
 今天上课有点小感冒. 反正我也写完了 Lab 和 MP, 就寻思去趟洗手间洗一下脸. 和助教说话的时候貌似有鼻涕. 我很抱歉. 然后我听到了两个助教聊天, 凡心偶炽想借这个机会说一下我其实写完了 MP, 而不是因为春假没有提前看. 于是我就大致问了一下, 我不小心 overheard 了谈话, 应该我测试点都过了就没事吧, 助教说没事, 我就谢谢了然后走了. 我很抱歉. 我在谈话过程中还忘记了助教们的名字, 然后不知道怎么 refer 哈哈, 有点尴尬, 我很抱歉.
