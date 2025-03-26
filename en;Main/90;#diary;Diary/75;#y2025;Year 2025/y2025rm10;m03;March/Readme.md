@@ -9,6 +9,12 @@ The beginning of March is mainly about the "Machine Problem" of "uiuc/cs341": "m
 
 I do sometimes feel that the starting "intuition" or "heuristic" of design is quite important. A good heuristic helps solve edge cases.
 
+# Friday, March 22rd
+
+My friend and I went to Texas Road House for dinner. I brought my own bag for leftovers. After I returned, I noticed that some sauces leaked outside the container, and there was a stain on the bottom side of my bag. I probably should have used the plastic bag provided. I'm sorry if this might cause trouble for the taxi driver. I hope everything will be fine. Sorry again.
+
+I deeply appreciate the waitress's patience, and I thank her for a warm drawing of a smiling face and "thank you!" on the receipt.
+
 # Saturday, March 15th, 2025
 
 I went to McDonald's to pick up some burgers. I'm sincerely thankful to the cashier. She replied to my "Thank you. Have a good day." with "Thank you very much." The whole dialogue was "... Have a good day", "Thank you. Have a good day", and "Thank you very much".

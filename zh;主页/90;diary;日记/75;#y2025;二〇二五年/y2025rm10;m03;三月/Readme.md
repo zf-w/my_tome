@@ -3,7 +3,49 @@ description: "之枫的二〇二五年三月日记."
 long_title: "三月 - 二〇二五年 - 日记 - 之枫"
 ---
 
+# 三月二十五日周二
+
+## 采购
+
+在 County Market 购买了 (Chop House Burger) $14.99, 两份 Stouffers Meat Lover Lasagna (Stouffers Meat Lover) $5.79, 和 Califia Farms Mocha Almond Latte (Clfa Iced Coffee Alm) $6.09.
+
+## 骨头
+
+如何体面地,带有敬意地送走骨头是一件难事. 我想, 本着"质本洁来还洁去","memory safety",还有卫生的原则, 应该把肉都剔除之后再送走. 于是我把骨头们泡在水里,看看会发生什么. 我惊讶于韩式煮肉的油竟能如此深入进肉或者骨头的组织里. 几天过去了, 红油仍然在远远不断地冒出来, 漂浮在水面上. 似乎有一些肉沫也在水面上, 不知道是不是.
+
+# 三月二十四日周一
+
+## 采购
+
+在 County Market 采购了 County Market Spring Water (Cty Mrkt Spg Wat) $1.49, Everyday-Essentials Trail Mix-Island (EE Trail Mix-Island) $5.29, Thera Breath Whitening Fresh Breath Dazzling Mint (Therabrth Rinse Whtn) $10.49, 和 Wilde Protein Chips (Wilde Spice Queso) $3.69.
+
+# 三月二十一日周五
+
+感谢朋友说我的屋子还算温馨.
+
+## 晚饭
+
+今天和朋友一起去了 Texas Road House. 感谢服务员的招待还有她?在发票上写的 Thank you 加笑脸.
+
+# 三月二十日周四
+
+今天朋友来拜访我哈哈.
+
+## 采购
+
+今天去了两次 Target 采购准备东西, 总共购买了饮用水 (Pure Life) $2.69, 两份 Oats overnight Chocolate Peanut Butter (Oatovernight) $3.79, JIF Peanut Butter(JIF) $7.59, Nature's Raspberries Frozen Fresh in White & Milk Chocolate (Tru Fru) $7.29, 两份 Good and Gather Crunchy Mango Cashews (Goodgather) $4.00, Good and Gather Caesar Salad (GG Salads) $3.99, Lay's Drilled Pickle Flavor Chip (Lay's) $3.99.
+
+一次是下午 14:36, 一次是下午 19:03. 我第一次忘记买之前提过的味道有趣的坚果了. 我还忘记扫沙拉的打折的价签了.
+
 # 三月十八日周二
+
+## 采购
+
+在 Target 购买了 饮用水 (Pure Life) $2.69, Haribo Goldbears (Haribo) $4.39, 和 Good and Gather Jumbo Blueberries (Berries) $6.99.
+
+## Kingdom Come: Deliverance II
+
+摘抄了一下游戏里的祷词.
 
 > I believe in God, the Father almighty, creator of heaven and earth. And in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit. And born of the Virgin Mary. He suffered under Pontius Pilate, was crucified, died and was buried. He descended into hell, on the third day He rose again. He ascended into heaven, and is seated at the right hand of God the Father Almighty. He will come again to judge the living and the dead. I believe in the Holy Spirit, the Holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.
 
@@ -67,7 +109,7 @@ long_title: "三月 - 二〇二五年 - 日记 - 之枫"
 
 ## 采购
 
-在 County Market 购买了 Everyday-Essentials Trail Mix-Island (EE Trail Mix-Island) $5.29, WILDE Protein Chips (Wilde Spice Queso) $3.69, 和 Prairie Farm Sweet Iced Tea (Sweet Iced Tea) $2.49.
+在 County Market 购买了 Everyday-Essentials Trail Mix-Island (EE Trail Mix-Island) $5.29, Wilde Protein Chips (Wilde Spice Queso) $3.69, 和 Prairie Farm Sweet Iced Tea (Sweet Iced Tea) $2.49.
 
 感觉很久没有在周六去超市了, 人比我想象的要多. 一些收银机似乎不明原因也没有撑过 Stress Test.
 
