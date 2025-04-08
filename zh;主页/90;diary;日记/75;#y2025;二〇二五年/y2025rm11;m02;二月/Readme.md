@@ -39,6 +39,10 @@ long_title: "二月 - 二〇二五年 - 日记 - 之枫"
 
 开始写新的 Machine Problem "malloc". 据说是能够让人"脱胎换骨", "rewire your brain"的一个作业哈哈哈.
 
+## 采购
+
+在 Target 购买了(GG Mix Nuts) $5.29, (Prairie Farm) $4.79, 两份 (Stouffers) $7.78, 和 Crunchy Mango Cashews (Good Gather) $4.00.
+
 # 二月二十四日
 
 室友似乎把一些鸡肉和脆骨放进了粉碎机, 导致粉碎机一下子就产生很大的噪音. 我拿手电看了一下, 然后拿开水冲了几次. 可怜的脆骨们就像是跳跳糖一直在那个粉碎仓里跳, 我想或许拿水送一下会更好, 不然它们可能很难进入正确的位置.
