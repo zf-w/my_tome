@@ -3,6 +3,30 @@ description: "之枫的二〇二五年三月日记."
 long_title: "三月 - 二〇二五年 - 日记 - 之枫"
 ---
 
+# 三月三十日周日
+
+## 采购
+
+我在 Target 采购了饮用水 (Pure Life) $2.69, Doughlicious Chocolate Truffle (Doughlicious) $5.24 (%25 off), Oats overnight Chocolate Peanut Butter (Oatovernight) $3.79, Oats overnight Chocolate Maple Brown Sugar (Oatovernight) $3.79, Good and Gather Jumbo Blueberries (Berries) $6.99.
+
+# 三月二十八日周五
+
+## 采购
+
+在 Target 购买了牛奶(Fairlife)$5.29, Oats overnight Chocolate Peanut Butter (Oatovernight) $3.79, Oats overnight Chocolate Maple Brown Sugar (Oatovernight) $3.79, 和 Good and Gather Jumbo Blueberries (Berries) $6.99.
+
+# 三月二十七日周四
+
+## 采购
+
+在 County Market 购买了饮用水 (CM Distilled Water) $1.49, Kinder Bueno Mini Share Pack (Kinder Bueno) $6.89, Black Label (BL Label Thcik Bacon) $8.29, Califia Farms Mocha Almond Latte (Clfa Iced Coffee Alm) $6.09. 和 Royal Family Mochi Tirmisu & Creme (Royal Family Mochi T) $4.99.
+
+# 三月二十六日周三
+
+今天走在路上看到了之前见到过的草坪里的耳罩, 废墟房子里去世的乌鸦, 在路边扣在地上有几天的披萨片, 和一只在路边停车位两车之间去世的乌鸦. 最近似乎看到很多殡天的乌鸦, 不知道会不会是因为禽流感还算什么预兆.
+
+今天的 `uiuc:cs341:lab:mapreduce` 作业不太顺利.
+
 # 三月二十五日周二
 
 ## 采购
