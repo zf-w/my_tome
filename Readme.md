@@ -6,7 +6,7 @@ My personal website is rendered from this repository.
 ## License: AGPL-3.0-only
 
 I understand that no one is going to fork or clone this repository because it's just not a project about coding.
-I'm using the `AGPL-3.0-only` license because I'm using it in my other projects.
+I'm using the `AGPL-3.0-only` license because I'm using it in my other projects. Just making some sort of consistency...
 
 ```license_notice
 Zhifeng's Tome Project
