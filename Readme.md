@@ -1,8 +1,12 @@
 # Zhifeng's Tome
 
 The repository of my tome, an archive of my thoughts, experiences, and feelings.
+My personal website is rendered from this repository.
 
 ## License: AGPL-3.0-only
+
+I understand that no one is going to fork or clone this repository because it's just not a project about coding.
+I'm using the `AGPL-3.0-only` license because I'm using it in my other projects.
 
 ```license_notice
 Zhifeng's Tome Project

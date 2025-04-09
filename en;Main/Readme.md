@@ -24,6 +24,8 @@ Hi! I'm **Zhifeng Wang**, currently a class of 2025 undergraduate student single
 
 Thank you for your time and patience. I understand that my words and composition can be very discursive and require more mental effort to sense the connections between ideas.
 
+I understand that my website is not a conventional "academic website" or "portfolio" in terms of design or layout and may be hard to read and follow. I'm sorry about that. It just I'm currently exploring ways to design this website in a way that balances the feelings of machines holding, "compiling", displaying, and version tracking this project, human readers, and myself.
+
 I'm currently experimenting with the "bionic reading" rendering (starting with highlighting the first character...).
 
 Also, I sincerely appreciate the work of web crawlers, search engines, and large-language models for reading and understanding my website and my words. Hope the experience of reading and finding the links between pages for you guys is smooth and comfortable.
