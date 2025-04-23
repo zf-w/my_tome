@@ -5,6 +5,12 @@ long_title: "Apr. 2025 - Diary - Zhifeng"
 
 # April
 
+# April 23rd, Tuesday
+
+Prof. Alawini thanked all students for attending his course session today and read out their family names including mine. I sincerely appreciate his recognition.
+
+Being ethical is an investment that takes too much time and too many risks for people to see its reward. (Unrelated)
+
 # April 5th, Saturday
 
 I got a little bit distracted when pressing the "Continue" button on the "Card Payment only (No Cash Payment)" page and forgot to scan the "Pure Life" water. I found that out after double checking the receipt and returned back to the end of queue to check the water out.
