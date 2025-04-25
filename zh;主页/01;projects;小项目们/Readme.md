@@ -23,7 +23,7 @@ long_title: "小项目们 - 之枫"
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "47573",
-    "api_url": "https://www.zf-w.space/api/c4w7h6/solve",
+    "api_url": ""https://con4.zf-w.space/c4w7h6"",
     "camera_param": {
         "z": 2.0
     },

@@ -10,7 +10,7 @@ long_title: "研究游戏与策略 - 之枫"
     "w":7,
     "h":6,
     "actions": "44444132222423111112333356556666677777755",
-    "api_url": "https://www.zf-w.space/api/c4w7h6/solve"
+    "api_url": "https://con4.zf-w.space/c4w7h6"
 }
 ```
 
@@ -19,8 +19,6 @@ long_title: "研究游戏与策略 - 之枫"
 # 学习去解决 Connect Four
 
 我惦记着研究棋类游戏的 AI 有很长一段时间了, 比如说围棋和这个四子棋. 终于, 2024 年的寒假, 我有时间去学习如何写程序解决四子棋. 主要是阅读了一个非常棒的博客[http://blog.gamesolver.org](http://blog.gamesolver.org). 最终我实现了其中包括的算法的主要部分, 自己设计了一部分计算开局定式的方式, 最终制作出网页并把算法部署到服务器上.
-
-这是到我的小 demo 的 **[链接](/demos/learning-connect4/).**
 
 ## 整体的感想
 
@@ -35,6 +33,6 @@ long_title: "研究游戏与策略 - 之枫"
     "w":7,
     "h":6,
     "actions": "44444132222423111112333356556666677",
-    "api_url": "https://www.zf-w.space/api/c4w7h6/solve"
+    "api_url": "https://con4.zf-w.space/c4w7h6"
 }
 ```

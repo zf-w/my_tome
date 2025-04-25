@@ -57,7 +57,7 @@ long_title: "网站主页 - 之枫"
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "2737",
-    "api_url": "http://www.zf-w.space/api/c4w7h6/solve",
+    "api_url": "https://con4.zf-w.space/c4w7h6",
     "camera_param": {
         "z": 0.8
     },
