@@ -5,6 +5,18 @@ long_title: "Apr. 2025 - Diary - Zhifeng"
 
 # April
 
+# April 23rd, Wednesday
+
+A male asked me to help him to get to the eighth floor by scanning my fob. He claimed he forgot to bring his fob. It seems to me that he was picking up his takeaway food by the building's door. Hopefully, my kindness didn't cause any security breaches or danger to anyone... Even though the stairs are indeed available anyway... I guess opening the stair doors indeed should also require fob-scanning.
+
+I have briefly skimmed through an interesting paper called "_Hashtag Re-Appropriation for Audience Control on Recommendation-Driven Social Media Xiaohongshu (rednote)_" with Digital Object Identifier (DOI): (https://doi.org/10.1145/3706598.3713379)[https://doi.org/10.1145/3706598.3713379].
+
+# April 22nd, Tuesday
+
+Prof. Alawini thanked all students for attending his course session today and read out their family names including mine. I sincerely appreciate his recognition.
+
+Being ethical is an investment that takes too much time and too many risks for people to see its reward. (Unrelated)
+
 # April 5th, Saturday
 
 I got a little bit distracted when pressing the "Continue" button on the "Card Payment only (No Cash Payment)" page and forgot to scan the "Pure Life" water. I found that out after double checking the receipt and returned back to the end of queue to check the water out.
