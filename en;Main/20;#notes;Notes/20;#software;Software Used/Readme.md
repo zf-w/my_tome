@@ -56,6 +56,21 @@ Some quick utility codes for setting up Vscode for a project.
 }
 ```
 
+```json
+{
+  "terminal.integrated.fontWeight": 100,
+  "terminal.integrated.fontSize": 18,
+  "workbench.colorCustomizations": {
+    "terminal.background": "#000000",
+    "terminal.foreground": "#ff96ecd2",
+    "editor.selectionBackground": "#990099",
+    "breadcrumb.activeSelectionForeground": "#ff0000",
+    "tab.activeBackground": "#990099",
+    "gitDecoration.ignoredResourceForeground": "#999999"
+  }
+}
+```
+
 ## Vscode Extensions Config
 
 Some quick utility codes for setting up VsCode extension recommendations for a project.
