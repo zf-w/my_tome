@@ -1,0 +1,17 @@
+{
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.eol": "\n",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+  },
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+  },
+}
