@@ -3,6 +3,18 @@ description: "October 2025."
 long_title: "October 2025 - Diary - Zhifeng"
 ---
 
+# Monday, October 27th { #y2025m10d27 }
+
+One of the main tasks for today is to visit the "CS423 Operating Systems Design" office hours and see what it is like. Throughout the office hour, the TA has pointed out one critical misunderstanding of mine about the usage of scheduler APIs. I'm grateful that I decided to visit the Office Hour. This is my first time visiting Office Hours in these years. I hope I didn't offend anyone.
+
+## The deadlock in yield { .debugging }
+
+One interesting bug I found today was about the "yield" function implementation for the MP2 of CS423. After I implemented the correct procedure to put a process into the sleeping state, I found that the dispatching thread was blocked forever. I guessed there might be a deadlock somewhere, and I turned out to be correct. Releasing the locks before waking up the dispatching thread and putting the process to sleep is very important. Otherwise, the yield function will be blocked before releasing the lock while the dispatching thread is desperately trying to grab it.
+
+# Sunday, October 26th { #y2025m10d26 }
+
+One main task being scheduled today is working on the "CS421 Programming Languages and Compiler" Machine Problem 7. This homework is mainly about implementing the "unification" algorithm in the type inferencing problem. Designing recursive functions to iter through list and tree data structure is quite interesting. Familiaring with Ocaml, I appreciate the insights of pattern matching in Rust-lang, that pattern matching design indeed provides a sense of clean and organization.
+
 # Wednesday, October 15th
 
 During lunch, I noticed a girl who seemed unsure where to return her tray and left it on the table. I returned it for her, feeling grateful to the person who helped me the first time I visited the restaurant. Later, though, I wondered if I might have been blocking her view of the return cart.
