@@ -12,6 +12,10 @@ long_title: "November 2025 - Diary - Zhifeng"
 
 # Daily Learning
 
+## Thursday, November 13th
+
+One of the biggest challenges in my recent learning would be the disambiguating parsing part from CS421 Programming Languages and Compilers. In my current understanding, disambiguating the parsing process is about carefully designing the grammar tree to ensure clarity. For example, when parsing "1 _ 2 _ 3", by ensuring that a "\*" operator can only have an immediate "\*" subtree on its left, we can ensure the multiplication operator's left-associative property. Now, I'm struggling with how to parse things like `2 \* if x = true then 1 else -1 + 3`. I'm currently forbidding the end expression of a multiplier's right "if" statement to include lower precedence operators to avoid shift-reduce conflicts. But I guess that is not the desired behavior...
+
 ## Thursday, November 6th
 
 Today's learning was mainly focusing on parsing algorithms and page table mechanisms in virtualized systems.
