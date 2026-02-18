@@ -1,5 +1,5 @@
 {
-  "book_dir": "D:/repos/my_tome",
+  "book_dir": ".",
   "src_dir": "D:/repos/my_mdtome_client_src/min_src",
   "web_root_out_dirs_vec": ["D:/repos/my_web_server/run/public", "D:/repos/my_heroku_y2024m12/public", "D:/repos/zf-w.github.io"],
   "web_content_base_url": "",
@@ -33,7 +33,7 @@
   "pre_script_url_strings": ["/static/prelude.js"],
   "style_url_strings": ["/static/base.css", "/static/mdtome.css"],
 
-  "author_string": "Zhifeng 之枫 2024",
+  "author_string": "Zhifeng 之枫 2026",
 
   "lang_info_vec": [{
     "lang_string": "en",
@@ -91,7 +91,7 @@
       "<footer id=\"$nav_footer\">",
       "<h5>Designed by Zhifeng</h5>",
       "<h5>Contact: <a href=\"mailto:zhifeng5@illinois.edu\">zhifeng5@illinois.edu</a></h5>",
-      "<h5>&copy; Zhifeng 2025</h5>",
+      "<h5>&copy; Zhifeng 2026</h5>",
       "</footer>"
     ]
   },{
@@ -150,7 +150,7 @@
       "<footer id=\"$nav_footer\">",
       "<h5>Designed by 之枫</h5>",
       "<h5>联系: <a href=\"mailto:zhifeng5@illinois.edu\">zhifeng5@illinois.edu</a></h5>",
-      "<h5>&copy; 之枫 2025</h5>",
+      "<h5>&copy; 之枫 2026</h5>",
       "</footer>"
     ]
   }]
