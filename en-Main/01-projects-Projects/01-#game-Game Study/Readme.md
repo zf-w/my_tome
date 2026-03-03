@@ -5,17 +5,12 @@ long_title: "Solving Connect Four - Zhifeng"
 
 # Game Study: Solving Connect Four
 
-```json#con4_graph
+```json#con4_game
 {
-    "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
-    "following_actions_string": "2737",
-    "api_url": "https://www.zf-w.space/api/c4w7h6/solve",
-    "camera_param": {
-        "z": 2.0
-    },
-    "orbit_ctrl_param": {
-        "auto_rotate_speed": 0.1
-    }
+    "w":7,
+    "h":6,
+    "actions": "44444",
+    "api_url": "https://con4.zf-w.space/c4w7h6"
 }
 ```
 
