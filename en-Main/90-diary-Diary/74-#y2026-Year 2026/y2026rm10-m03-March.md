@@ -3,6 +3,14 @@ description: "March 2026."
 long_title: "March 2026 - Diary - Zhifeng"
 ---
 
+# Friday, March 6th
+
+**Champaign**. The temperature is getting warmer. In the morning, I spent some time polishing a web interface, learning that I can use a "div" with "flex" to push one other element to the bottom of its container.
+
+I recycled four paper cartons, paper boxes, and plastic bottles. I'm grateful.
+
+I have studied a bit about Cross-Site Request Forgery. I guess "iframe" is indeed a dangerous thing.
+
 # Wednesday, March 4th
 
 **Champaign**. Today is a foggy day. The main task I have been working on today was the CS461 MP2 CP2. It's quite interesting to think about how to pass multiple filters and perform XSS. My previous learning of Base64 encoding and decoding leaves me with some critical intuition for solving the problem.
