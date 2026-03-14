@@ -3,6 +3,14 @@ description: "March 2026."
 long_title: "March 2026 - Diary - Zhifeng"
 ---
 
+# Friday, March 13th
+
+Today, I have been reading through the source code of "sha1", "sha2" series, and "sha3" series, and trying to implement the core part of "sha1". I have encountered two major bugs. The first bug was about a typo in the code for a mechanism handling the first to the twentieth rounds. I guess it's relatively easy to make a typo when there are a lot of single-character variables. I guess short variable naming helps make expressions containing a lot of bitwise and arithmetic operations shorter. The second bug was about the endian for the digest byte representation.
+
+It's also quite interesting to read the marcos for turning hexidecimal strings into constant byte arrays.
+
+I have also encountered integer overflow bugs when I was solving the daily problem. The overflow bug led to weird binary search behaviors, because some positive numbers overflowed and turned negative and flipped comparisons.
+
 # Thursday, March 12th
 
 Today is a sunny day, but the temperature drops a lot. I caught a suspicious runny nose on the way to the midterm and had a bit of an awkward exam. I guess I should have brought some tissues with me (although I'm still unable to use them under exam conditions).
