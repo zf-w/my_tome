@@ -9,7 +9,7 @@ long_title: "Solving Connect Four - Zhifeng"
 {
     "w":7,
     "h":6,
-    "actions": "44444",
+    "actions": "",
     "api_url": "https://con4.zf-w.space/c4w7h6"
 }
 ```
