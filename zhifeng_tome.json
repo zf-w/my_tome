@@ -27,7 +27,7 @@
     "graph_group": ["three", "san"],
     "three": [],
     "san": ["three"],
-    "util_security_strhash": []
+    "y2026_m03_sha3": []
   },
 
   "pre_script_url_strings": ["/static/prelude.js"],
