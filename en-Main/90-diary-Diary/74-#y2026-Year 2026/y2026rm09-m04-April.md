@@ -3,6 +3,12 @@ description: "April 2026."
 long_title: "April 2026 - Diary - Zhifeng"
 ---
 
+# Tuesday, April 21st
+
+The main learning for today was about Transmission Control Protocol and Address Resolution Protocol.
+
+I'm grateful that the four previously hatched Canadian goose goslings on the creek bank are doing well after the recent temperature drop.
+
 # Sunday, April 19th
 
 Today's main problem-solving was about redesigning the page customization design. Previously, to keep all the relevant Hyper Text Markup Language parts in one file, I chose to store all HTML parts in a list of strings, where each string represents a line of HTML. I do feel it's a bit unnatural and is preventing me from utilizing Integrated Development Environments.
