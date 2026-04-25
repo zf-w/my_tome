@@ -5,7 +5,7 @@ long_title: "研究游戏与策略 - 之枫"
 
 # 整体的概括
 
-```json#con4_game
+```json#y2024_q4_con4_game.con4_game
 {
     "w":7,
     "h":6,

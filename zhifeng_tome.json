@@ -1,6 +1,6 @@
 {
   "book_dir": ".",
-  "src_dir": "D:/repos/my_mdtome_client_src/min_src",
+  "src_dir": "C:/data/my_mdtome_client_src/min_src",
   "web_root_out_dirs_vec": ["D:/repos/my_web_server/run/public", "D:/repos/my_heroku_y2024m12/public", "D:/repos/zf-w.github.io"],
   "web_content_base_url": "",
   "web_source_base_url": "/src",

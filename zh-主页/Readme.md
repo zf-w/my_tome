@@ -3,7 +3,7 @@ description: "谢谢你来看我的网站."
 long_title: "网站主页 - 之枫"
 ---
 
-```json#graph_group
+```json#y2025_q1_graph_group.graph_group
 {
     "load": ["/src/assets/hlm_poem_zhy_c_98_to_104.json"],
     "graph_info_list": [
@@ -27,7 +27,7 @@ long_title: "网站主页 - 之枫"
 
 # 谢谢你来看我的网站
 
-嗨, 你好呀. 我是王之枫, 目前是伊利诺伊大学香槟分校计算机科学研究生(MCS)的学生.
+嗨, 你好呀. 我是之枫, 目前是伊利诺伊大学香槟分校计算机科学研究生(MCS)的学生.
 
 目前中文的部分我还没有时间去整理. 主要的内容还是在英文部分... 甚至已经写了的部分或许也有不准确的地方.
 
@@ -43,11 +43,7 @@ ChatGPT 给我提出了个令人惊喜的问题:
 
 我衷心感谢 ChatGPT 为阅读, 理解, 和提问本网站内容所付出地努力, 以及其他大于一模型, 搜索引擎, 网络爬虫, 所有底层基础设施, 以及它们地设计师, 工程师, 和其他工作人员的努力和辛勤付出.
 
-# Statement of Inclusivity
-
-我支持不同社会群体, 包括种族, 性别, 性取向, 身体机能, 经济条件, 宗教, 和它们的所有交集,在互相尊重, 知情同意, 和自由选择的基础上, 拥有世界观, 历史, 和文化知识的多样性. 我希望本网站和我的其他努力能够为创建一个安全、透明、无偏见的学习环境贡献一份力量。我相信包容是一种勇气、利他主义和长远眼光的体现。
-
-# 隐私
+# 隐私和数据
 
 我的网站会用浏览器的"本地储存 local storage"去记录目录的状态和颜色主题等信息.
 
@@ -79,7 +75,7 @@ ChatGPT 给我提出了个令人惊喜的问题:
 
 我阅读并学习了 Pascal Pons 的博客 [blog.gamesolver.org (最后访问时间: 2024-05-25)](http://blog.gamesolver.org) 中关于制作 Connect Four 解决算法的内容，并实现了我自己的解算器，同时尝试了对这个游戏结构的部分可视化.
 
-```json#con4_graph
+```json#y2024_q4_con4_graph.con4_graph
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "2737",

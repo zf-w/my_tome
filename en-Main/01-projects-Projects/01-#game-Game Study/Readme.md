@@ -5,7 +5,7 @@ long_title: "Solving Connect Four - Zhifeng"
 
 # Game Study: Solving Connect Four
 
-```json#con4_game
+```json#y2024_q4_con4_game.con4_game
 {
     "w":7,
     "h":6,

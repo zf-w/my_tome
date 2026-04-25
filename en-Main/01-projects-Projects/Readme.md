@@ -21,7 +21,7 @@ I have reproduced and replicated the results of Pascal Pons' blog post about str
 
 I have also designed a visualization of its partial game graphs.
 
-```json#con4_graph
+```json#y2024_q4_con4_graph.con4_graph
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "47573",
@@ -43,7 +43,7 @@ This is the longest project of mine. The idea started in Fall 2019. I wanted to 
 
 The Barnes Hut Tree data structure is a key to accelerate the graph visualization algorithm by quickly and fairly approximate calculating N-body forces. This is a very interesting interdisciplinary data structure. The data structure is about both "structure" and "calculation". Here is a link to the documentation site [link](https://docs.rs/zhifeng_impl_barnes_hut_tree/).
 
-```json#graph
+```json#y2025_q1_graph.graph
 {
     "load": ["/src/assets/bht/airfoil1.bht.test.json"]
 }
@@ -52,8 +52,6 @@ The Barnes Hut Tree data structure is a key to accelerate the graph visualizatio
 # Mini Projects:
 
 ## Make a Cyber Rose website for Hailuo
-
-- [Link to rose website](https://uiuc.hailuoxinli.com/)
 
 The website or webpage is mainly for Valentine's Day of 2024. It's a funny website displaying a interactive and shader-animated 3D rose. I was also learning how to use a server state between threads, and that's how the counting of number of visits was achieved. The counting resets with every reboot of the server. I temporarily set the initial counting to be the number I manually memorized and updated around Valentine's Day.
 
@@ -73,7 +71,7 @@ The website or webpage is mainly for Valentine's Day of 2024. It's a funny websi
 
 - Three.js practices
 
-```json#fun_galaxy
+```json#y2024_q4_galaxy.fun_galaxy
 {
     "galaxy_param": {
         "branches":3

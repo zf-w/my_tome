@@ -11,7 +11,6 @@ long_title: "小项目们 - 之枫"
 
 一开始, 大一, 我上了一系列关于 HTML、CSS、Javascript 和 Angular 的 Coursera 课程来学习 Web 设计和开发。 后来，为了我能够展示和演示我的网络/图形可视化，我学习了 Bruno Simon 的 ThreeJS 课程。 受到他课程中 React-Three-Fiber 的想法和便利性的启发，我通过 React 官网学习了 React。 距离 2021 年两年，2023 年秋天，我学习了 NextJS。 受到 Rust 书风格和理念的启发，我最终做出了这个网站。得陇望蜀真是人之常情 haha.
 
-
 ## 游戏学习: 竖四子棋
 
 ## 网络可视化: Multi-level Force-directed Graph Layout
@@ -35,8 +34,6 @@ long_title: "小项目们 - 之枫"
 # 迷你项目
 
 ## 给海螺心理社做赛博玫瑰
-
-- [链接](https://uiuc.hailuoxinli.com/)
 
 该网站, 或者说网页, 是社团针对 2024 年情人节的一个小活动. 这是挺有趣的一个展示一株 3D 亮晶晶玫瑰的网页. 我当时也在学习如何在不同的 Threads 之间记录一个总的 State, 好比说那个 counting. 不过呢, 目前每次服务器重新启动时计数都会重置. 我暂时将初始计数设置为情人节前后我手动更新的数字.
 
