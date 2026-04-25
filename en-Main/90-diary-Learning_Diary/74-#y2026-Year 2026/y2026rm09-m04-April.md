@@ -3,6 +3,20 @@ description: "April 2026."
 long_title: "April 2026 - Diary - Zhifeng"
 ---
 
+# Friday, April 24th
+
+The main project development challenge for today is about loading custom "apps" in my "mdtome" Markdown rendering program.
+
+## Designing
+
+Previously, I have been using a JavaScript Object Notation (JSON) file to define all the custom "apps" and their dependency relations. Time has passed like a wild donkey. The JSON definition started to be a little bit less maintainable, and the previous "app" naming format is a little bit less than ideal.
+
+I have been using "app names" to define their relative files in addition to, well, the name. For example, application "foo_bar_hello_world" would be expected to live in "/src/foo/bar/hello/world.js". After some field practices, I feel that the design has some room for improvement.
+
+First, I feel like the meaning of these directories becomes hard to remember after some time. My internal states have changed, and I guess I'm not always able to recall my naming intuitions. Also, sometimes I would like to use names with underscores in them, but using underscores as separators makes this hard to happen. Furthermore, Git (at least for the VSCode sidebar) only displays the last segment, the name of the file, and that is not helping me figure out which file is for which "app".
+
+So I decided to use the "temporal locality focused" naming convention, using only the first two segments as an indicator of relative path. For example, now "y2026_m04_foo_bar"'s file would be living in "/src/y2026/m04/foo_bar.js". I guess this would indeed be more natural for me.
+
 # Tuesday, April 21st
 
 The main learning for today was about Transmission Control Protocol and Address Resolution Protocol.
