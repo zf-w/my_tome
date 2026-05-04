@@ -5,7 +5,7 @@ long_title: "Message Hasher- Util - Zhifeng"
 
 # SHA-3 Text Hasher
 
-```json#y2026_m03_sha3
+```json#y2026_m03_sha3.sha3
 {}
 ```
 

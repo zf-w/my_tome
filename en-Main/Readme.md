@@ -3,7 +3,7 @@ description: "Thank you for visiting my website."
 long_title: "Main Page - Zhifeng"
 ---
 
-```json#fun_galaxy
+```json#y2024_q4_galaxy.fun_galaxy
 {
     "galaxy_param":{
         "branches":4
@@ -20,7 +20,7 @@ long_title: "Main Page - Zhifeng"
 
 # Thank you for visiting Zhifeng's website
 
-Hi! I'm **Zhifeng Wang**, currently a Master of Computer Science student at the University of Illinois Urbana-Champaign.
+Hi! I'm **Zhifeng Wang**, currently a Master of Computer Science student at the University of Illinois, Urbana-Champaign.
 
 # Some Words about the Website
 
@@ -34,33 +34,7 @@ I understand that time is very precious for everybody. Researchers and employers
 
 I sincerely appreciate the effort of ChatGPT in reading, trying to understand, and asking questions about this website, along with other Large-Language Models, search engines, web crawlers, all the lower-level infrastructures, and their designers, engineers, and other staff and workers' effort and hard work.
 
-# Statement on Inclusivity
-
-I support diversity of worldviews, histories, and cultural knowledge across a range of social groups, including race, ethnicity, gender identity, sexual orientation, abilities, economic class, religion, and their intersections, as long as there is mutual respect, informed consent, and freedom to change. I hope this website and my other efforts can help a little bit in creating a safe, transparent, and bias-free learning environment. I believe being inclusive is an act of courage, altruism, and long sight.
-
-```json#graph_group
-{
-    "load": ["/src/assets/hlm_poem_zhy_c_98_to_104.json"],
-    "graph_info_list": [
-      {"resrc_idx": 0, "obj_path": [0], "position": [-2,1,0]},
-      {"resrc_idx": 0, "obj_path": [1], "position": [-0,1,-0.1]},
-      {"resrc_idx": 0, "obj_path": [2], "position": [2,1,0.1]},
-      {"resrc_idx": 0, "obj_path": [3], "position": [-3.3,-1,-0.1]},
-      {"resrc_idx": 0, "obj_path": [4], "position": [-1.5,-1,0.1]},
-      {"resrc_idx": 0, "obj_path": [5], "position": [0,-1,0]},
-      {"resrc_idx": 0, "obj_path": [6], "position": [1.5,-1,0]},
-      {"resrc_idx": 0, "obj_path": [7], "position": [3,-1,0]},
-    ],
-    "config": {
-      "camera_param": {
-        "z": 3.0
-      }
-    },
-    "height": "400px"
-}
-```
-
-# Privacy
+# Privacy and Data
 
 The website will store your theme and the state of the sidebar inside your browser's local storage.
 
@@ -97,7 +71,7 @@ This website's layout is trying to mimic traditional books. There is a side "tab
 
 I have read and learned Pascal Pons' blog [blog.gamesolver.org (Last Accessed: 2024-05-25)](http://blog.gamesolver.org) on make a Connect Four solver and implemented my own, along side making visualizations.
 
-```json#con4_graph
+```json#y2024_q4_con4_graph.con4_graph
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json"],
     "following_actions_string": "3333",
@@ -115,7 +89,7 @@ I have read and learned Pascal Pons' blog [blog.gamesolver.org (Last Accessed: 2
 
 The visualization below is my attempt at using an Octree data structure to quickly find information about a particular state. I'm very grateful that all the parts of my code can work smoothly together. The Octree structure is extracted from my Barnes-Hut Tree implementation for accelerating force simulations for my force-directed graph visualization implementation. I'm truly, truly grateful that all the parts worked together; at least no too-obvious problems.
 
-```json#con4_bhtree
+```json#y2024_q4_con4_bhtree.con4_bhtree
 {
     "load": ["/src/assets/c4w7h6.len5.20240803.gamegraph.json", "/src/assets/c4w7h6.len5.20240803.bht.json"],
     "start_active_states_list": [0,2696, 2829,2851,2858,2862,1,2,3,4,5]
@@ -126,7 +100,7 @@ The visualization below is my attempt at using an Octree data structure to quick
 
 The graph visualization began as early as 2019. The work began with me trying to apologize to a classmate by visualizing a game. I have started learning and implementing the graph layout algorithm. From reading Dr. Hu Yi-Fan's journal about graph visualization, making Python implementations, reading and storing data in various forms, learning to render 3D webpages, and making the final webpage, it's indeed a very long journey.
 
-```json#graph
+```json#y2025_q1_graph.graph
 {
     "load": ["/src/assets/jagmesh1.20240531.graph.json"]
 }
