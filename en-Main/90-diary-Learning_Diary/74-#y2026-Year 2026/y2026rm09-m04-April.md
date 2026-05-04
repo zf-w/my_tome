@@ -3,6 +3,16 @@ description: "April 2026."
 long_title: "April 2026 - Diary - Zhifeng"
 ---
 
+# Thursday, April 30th
+
+I'm grateful that the professor and a classmate said some kind words about my project presentation. I need more practice for sure. I talk to computers more than I talk to humans.
+
+# Wednesday, April 29th
+
+I have been trying to understand the Mitnick Transmission Control Protocol (TCP) spoof technique for a few hours. One misconception I encountered was about the Internet Protocol (IP) address-based authentication. I thought this technique was about dropping all packets from unauthorized IP addresses. I'm grateful that I decided to chat with LLMs before writing code that simply tries a lot of potential acknowledgment sequence numbers. After some search and chat, I realized that the attacker can still make a TCP first handshake synchronization and get the server's Syn-Ack packet.
+
+From last semester's CS423, I learned that one of the major sources of bugs inside operating systems is from programmers' copying and pasting, copying code from a seemingly similar context, and solving seemingly similar problems. Even though I have experienced this a lot, it is still interesting to see this issue happen. The exact thought even flashed in my mind, but I still forgot to change the "client" into "server" in a function name when I was copying code from the server's part of the implementation several lines above, leading to the attacker-in-the-middle client sending the true client's request back to itself.
+
 # Friday, April 24th
 
 The main project development challenge for today is about loading custom "apps" in my "mdtome" Markdown rendering program.
