@@ -3,6 +3,16 @@ description: "August 2026."
 tab_title: "August 2026 - Logs - Zhifeng"
 ---
 
+# Friday, August 21st, Sunny
+
+## "Moving" into VM
+
+Setting up a new operating system is like moving into a new house. I'm learning to use virtual disks to make the system more modularized and probably safer. One interesting thing happened when I tried to mount a drive to the home directory. I'm wondering if I can use the mounting of a different 'home drive' technique to achieve a quick workspace swap and isolate different workspaces. 
+
+After rebooting the system, the system re-prompted me about the initial set up options, like location services. I guess mounting the new drive removed the previously stored information about the initialization.
+
+I noticed that I forgot to take notes on adding the "user.signingkey" and the "gpg --keyid-format=long". I researched the Internet and found the answers.
+
 # Wednesday, August 12th
 
 Today is a rainy day.
