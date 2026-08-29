@@ -3,6 +3,30 @@ description: "August 2026."
 tab_title: "August 2026 - Logs - Zhifeng"
 ---
 
+# Friday, August 28th, Champaign, Sunny
+
+## Takeaway and Recycling
+
+Today, I noticed that the "dine-in" meal containers don't come with lids. I think this could help me further reduce my plastic use. I'm wondering if it’s safe to reuse the lids I already own so that I don't have to transfer my food into a separate container when I'm at a restaurant.
+
+## Reflecting on Cunningham et al., “Bringing ‘High-Level’ Down to Earth.”
+
+1. Do the abstraction layers completely hide lower level details? For example, when playing MineCraft, a player might need to understand binary numbers to understand why numbers like 64 and 32768 frequently occur in the game system design. Furthermore, another example I can think of would be crashing. Crashes often happen at a low level, where things can go irrecoverably wrong very quickly.
+    
+2. I guess one of the reasons why programming educations go bottom-up is that the pattern aligns with the development of computer science (from logic gates to assembly code to programming languages). I remember a professor trying to explain an encoding/decoding error, which is related to UTF-8 and the history of it; the process was a little bit difficult. I guess that’s due to students who grew up in the era of App Store hardly encounter those low level errors in their daily lives.
+
+## Reflecting on Chen, WIP: Low Effort, High Grades? Benchmarking LLMs on Various Engineering Assignments.
+
+1. While mathematical methods like induction can prove an algorithm's correctness for all valid inputs, it is difficult to apply similar verification to LLMs.
+    
+2. A key question arises: Of the many variants of a single assignment assessing the same knowledge, how many can one LLM correctly answer? Does it succeed on all of them, or does it fail on specific ones?
+
+# Thursday, August 27th, Champaign, Sunny
+
+## Joining School WiFi
+
+This is the first time I brought my newly installed Ubuntu virtual machine to school. When joining the school WiFi, a window popped out and asked me to input several pieces of information, including username, password, and CA certificate. After I entered the username and password, the submit button remained inactive and unclickable. I recalled my experience joining the WiFi on my Windows machine and realized that the CA certificate might be related to the "trust or not trust" and "do you expect this WiFi to occur" prompt. I chose to not provide the certificate; the button became clickable, and I was able to join the WiFi. I'm grateful that it worked out quickly as time is often limited during class discussions.
+
 # Friday, August 21st, Sunny
 
 ## "Moving" into VM
