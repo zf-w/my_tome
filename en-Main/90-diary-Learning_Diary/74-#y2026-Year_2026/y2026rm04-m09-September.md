@@ -3,7 +3,13 @@ description: "September 2026."
 tab_title: "September 2026 - Logs - Zhifeng"
 ---
 
-# September 3rd, 2026, Sunny
+# Friday, September 4th, 2026, Sunny
+
+## Mounting as Home Directory
+
+I tried using a virtual disk for a 'plug-in' home directory. Initially, I thought 16GiB would be sufficient, but the space filled up quickly. I tried to mount a larger disk and copy all the files to it, but it didn't work at first. I learned that I needed to use a special command to copy all the hidden information and attributes. I’m grateful it worked in the end!
+
+# Thursday, September 3rd, 2026, Sunny
 
 The weather has been a bit unpredictable lately. I'm starting to get worried about the upcoming winter.
 
