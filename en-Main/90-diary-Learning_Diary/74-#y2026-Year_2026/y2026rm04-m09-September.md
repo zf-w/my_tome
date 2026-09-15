@@ -3,6 +3,14 @@ description: "September 2026."
 tab_title: "September 2026 - Logs - Zhifeng"
 ---
 
+# Monday, September 14th, 2026, Sunny
+
+## Picking Up Packages
+
+Picking up packages at an locker seems to be beneficial for both the customers and the delivery team. Assuming the journey to the locker is safe, I guess a dedicated pickup point is much more secure than leaving a package on a public shelf or—worse yet—at an apartment building's entrance. Furthermore, I wonder if this might enhance privacy; at least the shipping label won't display the recipient's home address, even if the trip requires a bit more effort. I suppose a slightly longer walk is a small price to pay.
+
+On my way to collect my packages, I found a discarded cardboard box in a driveway. I'm glad I had the chance to recycle it instead of letting it sit as waste or harm vehicles. It is disheartening to see so many bottles and paper containers scattered along the roadsides.
+
 # Saturday, September 12th, 2026
 
 ## Fortune Cookies
