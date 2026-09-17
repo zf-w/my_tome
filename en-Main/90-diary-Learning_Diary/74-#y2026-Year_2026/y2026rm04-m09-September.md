@@ -3,6 +3,14 @@ description: "September 2026."
 tab_title: "September 2026 - Logs - Zhifeng"
 ---
 
+# Wednesday, September 16th, 2026, Sunny
+
+## Takeaway Food & The Cheesecake Carrier
+
+Being eco-friendly when getting takeaway food is a bit of a challenge for me. Usually, restaurants provide plastic bags, tissues, and single-use utensils by default. It’s often difficult to ask the clerk to skip these items because, with so many customers, the request can easily be overlooked. Recently, I discovered a clever workaround: using a cheesecake carrier to transport "dine-in" food. It worked perfectly for dishes served in foil tins or on paper plates. The process went smoothly, though I did hope I didn't look too odd! 
+
+One thing I didn't account for was the temperature; the food was a bit hot, and I worried about the plastic bottom of the carrier. Next time, I’ll make sure to bring a heat-resistant silicone mat.
+
 # Monday, September 14th, 2026, Sunny
 
 ## Picking Up Packages
