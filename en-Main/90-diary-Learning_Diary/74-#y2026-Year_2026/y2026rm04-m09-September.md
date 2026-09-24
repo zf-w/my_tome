@@ -3,6 +3,93 @@ description: "September 2026."
 tab_title: "September 2026 - Logs - Zhifeng"
 ---
 
+# Wednesday, September 23ed, 2026, Sunny
+
+## Small Things
+
+- I'm grateful that the clerk allowed me to opt out of single-use plastic utensiles at Subway. I will try to opt out of tissues next as well.
+- When I was changing a set of reverse proxied API public URLs, I forgot to also update the client configurations along with it.
+- I tried to use variables in CSS to manage font sizes. I'm grateful that it worked.
+- I had noticed a scrolling problem fairly a long time ago. There was always a somewhat large amount of whitespace at the end of an element. Today, while examining font sizes, I noticed that again and figured out it was due to a fixed height empty container element for two hidden (not in DOM tree) elements. I fixed the logic by opting them out altogether. I'm grateful it worked.
+
+## Learning to Colaborate
+
+For the past few days, I have been working on a course project. I'm grateful that there is Git and GitHub; they make colaborations easier. Sometimes, I feel people are vectors as well, and a distance or inner product can be calculated that estimates the difference between your "survival" strategy and the others. While I'm very grateful that I get to learn other people's strategies, it often not too hard for me to realize the differences between me and other people by observing and comparing our "policies", a term from reinforcement learning. It's true that I might be too careful; It's relatively hard to see someone documenting barcodes. Anyway, communication is very important. 
+
+## Consumption Notes
+
+| Barcode | Name |
+| :--: | :--: |
+| 6-04913-00489-9 | Colombe Coffee Workshop Mocha Latte |
+| 6-32432-75777-3 | Yerba Madre Organic Yerba Mate |
+
+## AI Comments
+
+I'm grateful that LLMs have helped me to polish my words. I learned a lot.
+
+### [`gemma-4 12B`](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF?show_file_info=gemma-4-12b-it-UD-Q4_K_XL.gguf)'s Comment
+
+Your writing reveals a mind that finds deep satisfaction in precision and "systematic thinking." You don't just live through your day; you analyze it—whether you are identifying a specific CSS bug, optimizing your environmental impact at a restaurant, or translating complex human social dynamics into the language of reinforcement learning. You seem to be someone who finds comfort in turning the chaos of life into organized data and logical structures, seeking to understand the underlying "policies" of the world around you.
+
+# Friday, September 18th, 2026, Rainy
+
+## Consumption Notes
+
+### Chlorophyll Water
+
+| Barcode | Name |
+| :--: | :--: |
+| UPC-A: 8-60000-62080-2 | Chlorophyll Water |
+
+- Enhanced Purified Water Beverage, plus Vitamins
+- Plant powered
+- Naturally Refreshing
+- Clean Label Hydration
+- Antioxidant
+- Nature's Green Magic
+- Green Business Bureau
+- Peta Business Bureau
+- 100% Recyclable
+- BPA Free
+- Drink one -> Recover one
+- This product funds recovery of ocean-bound plastic. [www.repurpose.global](https://repurpose.global/)
+- [chlorophyllwater.com](https://chlorophyllwater.com/)
+- Plant-Based Vitamins A, B12, C and D3
+
+# Thursday, September 17th, 2026, Sunny
+
+## Trying Subway
+
+I visited the on-campus Subway restaurant for the first time today. I followed my usual strategy: ordering via the mobile pick-up app first to familiarize myself with the layout and the menu, and then planning to order in person next time. There was a minor moment of awkwardness when I misunderstood the clerk's question about the bread type; I thought she was asking what kind of sandwich I wanted. I felt a little bit embarrassed that she had to repeat the question two or three times. I'm sorry if there was too much inconvenience.
+
+## Consumption Notes
+
+### CLARIFYING SHAMPOO BAR
+
+| Barcode | Name |
+| :--: | :--: |
+| UPC-A: 6-28451-85786-0 | Clarifying Shampoo Bar With Apricot and Jojoba Seed Oil |
+
+A shampoo bar from The Unscented Company, a Certified B Corporation and Women Owned company.
+
+For fine to wavy hair types. 
+
+__FOR A FEEL-GOOD NATURAL SHINE__: Wet your hair, moisten the bar under water, rub to a lather in your hands and shampoo just like you usually do.
+
+__WHAT IT'S MADE OF__: SOdiun Coco-Sulfate, Kaolin, Aqua (Water), Sodium Cocoyl lsethionate, Olus Oil, Glycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Prunus Armeniaca (Apricot) Kernel Oil, Butyrospermum Parkii (Shea) Butter, Citrus Paradisi (Grapefruit) Seed Extract, Tocopherol, Cannabis Sativa (Hemp) Seed Oil, Glycine Soja (Soybeen) Oil, Panthenol, Caprylic Triglyceride.
+
+__NO ADDED FRAGRANCES OR DYES__
+
+__BIODEGRADABLE FORMULA__
+
+__NEVER TESTED ON ANIMALS__
+
+__VEGAN__
+
+__Made in Canada from globally sourced ingredients.__
+
+Manufactured for: Baleco Inc., 5530, rue Saint-Patrick, Montreal, Quebec, H4E 1A8. (+1) 855-933-1555
+
 # Wednesday, September 16th, 2026, Sunny
 
 ## Takeaway Food & The Cheesecake Carrier
