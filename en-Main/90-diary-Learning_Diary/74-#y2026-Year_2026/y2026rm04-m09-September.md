@@ -3,6 +3,38 @@ description: "September 2026."
 tab_title: "September 2026 - Logs - Zhifeng"
 ---
 
+# Saturday, September, 26th, 2026, Sunny
+
+## Consumption Notes
+
+| Barcode | Name |
+| :--: | :--: |
+| 0-48500-02064-7 | Pure Leaf, Unsweetened Tea , No sugar |
+| 0-85239-05730-8 | Good & Gather, Distilled White Vinegar | 
+| 8-57468-00612-5 |  Power Up Snacks, Antioxidant Mix |
+| 8-57416-00619-1 | Perfect Hydration, Alkaline Water + Electrolytes |
+
+### Distilled WHite Vinegar
+
+This product is concentrated and needs to be diluted as indicated below before using to clean. Dilution: Combine 1/2 cup of vinegar with 1 gallon of water.
+
+- Tips:
+  Vinegar is an economically friendly cleaner. Try some of the following tips.
+  - **Coffee Maker**
+    To remove stale coffee residue, fill the reservoir with vinegar solution and run it through a brewing cycle. When cycle is finished, run two cycles of water to rinse.
+  - **Grease**
+    Dirt and greasy residue can be removed from stoves and refrigerators by wiping with a cloth soaked with vinegar solution.
+  - **Window Cleaner**
+    For glistening glass and mirrors, combine vinegar solution with 1/2 TSP. liquid hand soap in a spray bottle. Spritz it on surfaces, then wipe dry with newspaper or a cloth.
+
+# Thursday, September 24th, 2026, Sunny
+
+## Consumption Notes
+
+| Barcode | Name |
+| :--: | :--: |
+| 8-10090-75008-8 | oats over night shake, chocolate peanut butter |
+
 # Wednesday, September 23ed, 2026, Sunny
 
 ## Small Things
