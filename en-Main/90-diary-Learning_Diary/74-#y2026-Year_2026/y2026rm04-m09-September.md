@@ -29,6 +29,18 @@ This product is concentrated and needs to be diluted as indicated below before u
 
 # Thursday, September 24th, 2026, Sunny
 
+## Learning Docker and Web Development
+
+To me, Docker has always been a somewhat scary tool; there are so many concepts to grasp: containers, images, networks, and volumes. 
+
+Today, I planned to deploy a web project on a virtual machine for my classmates and me. I had never had experience setting up a system for multiple users before. Previously, I only used Docker for code development and installed dependencies directly for production. However, after chatting with LLMs, I learned that Docker can be used for much more than just development. I redesigned my previous "docker compose" configurations to minimize the required storage space, reconfigured the URLs and environment variables, and updated the network settings.
+
+The first thing I struggled with was the environment variables. I'm grateful that Docker provides a straightforward way to manage them, though I learned that I need to be very careful with quotation marks.
+
+The second thing I found difficult was the network setup. You have to distinguish between several different ports: the port the application listens to inside the container, and the port exposed to the outside world. Domain names are also noteworthy; when applications communicate inside a Docker network, you need to use the service name as the domain name. I’m curious if they can communicate without a port specification in the "docker compose" file.
+
+I also automated my workflow. Previously, I had to manually "build" the front-end code and copy it into the server's "public" directory. Now, with Docker, I set up a production compose configuration that automatically builds and copies the files. I'm relieved to see that it worked!
+
 ## Consumption Notes
 
 | Barcode | Name |
