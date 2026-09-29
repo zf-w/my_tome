@@ -3,6 +3,15 @@ description: "September 2026."
 tab_title: "September 2026 - Logs - Zhifeng"
 ---
 
+# Tuesday, September, 29th, 2026, Sunny
+
+## Discursive Reflections
+
+- I still feel a sense of appreciation for a shopping assistant who, some time ago, pointed out that I could select the "use my own bag" option to earn a five-cent discount.
+- The checkout lines at my local Target often obstruct the stairway. I make a conscious effort to leave an extra gap for those heading up or down. Since I became aware of this, I've noticed only one or two other people, might be an Indian lady, who show that courtesy. I'm grateful.
+- I appreciate that Target provides recycling bins for glass and plastic; however, they are often cluttered with receipts. While I recognize that the paper helps cushion the bottles and prevent breakage, I wonder if the store realizes this and if it complicates the recycling process.
+- I’ve been enduring far too many all-night coding sessions lately. While I am thankful to my teammates for trusting me to take the lead and learn, I find myself longing for some rest and the chance to pursue projects outside of my academic responsibilities.
+
 # Saturday, September, 26th, 2026, Sunny
 
 ## Consumption Notes
