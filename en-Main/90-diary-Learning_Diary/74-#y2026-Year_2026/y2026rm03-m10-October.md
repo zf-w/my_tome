@@ -3,9 +3,15 @@ description: "Oct. 2026."
 tab_title: "Oct. 2026 - Diary - Zhifeng"
 ---
 
-# Oct. 16th, 2026, Cloudy 
+# Saturday, Oct. 17th, 2026, Sunny
 
-# Oct. 15th, 2026, Rainy
+## Resources Note
+
+- https://github.com/drduh/YubiKey-Guide
+
+# Friday, Oct. 16th, 2026, Cloudy 
+
+# Thursday, Oct. 15th, 2026, Rainy
 
 ## Debugging Debian Wayland
 
