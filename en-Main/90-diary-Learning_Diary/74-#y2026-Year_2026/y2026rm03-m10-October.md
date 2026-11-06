@@ -3,7 +3,25 @@ description: "Oct. 2026."
 tab_title: "Oct. 2026 - Diary - Zhifeng"
 ---
 
+<<<<<<< Updated upstream
 # Saturday, Oct. 17th, 2026, Sunny
+=======
+# Saturday, Oct. 31st
+
+- Just ICE Tea: "If you are too busy to laugh, you are too busy. - Unknown"
+- Just ICE Tea: "Great spirits have always encountered violent opposition from mediocre minds. - Albert Einstein"
+- Just ICE Tea: "Those who say it cannot be done should not interrupt the people doing it. - Chinese Proverb"
+
+# Wednesday, Oct. 28th, Sunny
+
+I wondered why did the previous design use `elem[0]` to get an HTML element. It turned out it used "queryByName" instead of "queryById".
+
+After some modifications on other issues and went back to this issue, I forgot to switch to the "byId" and remove the indexing. That's funny.
+
+Without the help of IDE autocompletion, the previous developers made some typos trying to access non-existent variables. 
+
+# Oct. 16th, 2026, Cloudy 
+>>>>>>> Stashed changes
 
 ## Resources Note
 
