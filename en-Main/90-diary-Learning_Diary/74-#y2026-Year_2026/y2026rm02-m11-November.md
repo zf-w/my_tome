@@ -3,6 +3,40 @@ description: "Nov. 2026."
 tab_title: "Nov. 2026 - Diary - Zhifeng"
 ---
 
+# Tuesday, Nov. 10th, Sunny
+
+I find the weather is often surprisingly good after I had a all-nighter study session, which is kind of sad.
+
+## Reflect on LLM Agent Experience
+
+I feel that `Claude Opus 5.5 on Swival` provided me a fairly nice, yet somewhat architecturally hasty approach to implement the desired behavior on top of the existing codebase.
+I deeply appreciate the help.
+Although I changed it a lot before testing it, I guess the original modification would also have worked.
+One interesting thing I noticed was a typo.
+As I can recall, I have encountered the typo before, mistyping `form_idx` into `from_idx`.
+Both interpretations "work" in the semantic context, but, while the model sets the field as `form_idx` on the client side, it tries to access the `from_idx` on the server side.
+Maybe I misunderstood it or the mistake was mine, but I guess symptom was indeed aligning with the foundamental mechanism of LLMs.
+I guess it would indeed be very hard to determine what is what when there is a nearby typo.
+
+I'm grateful for the model's help.
+I also learned a lot.
+Building a consistent and hopefully maintainable architecture is indeed quite challenging.
+
+## CS500 Presentation
+
+I'm quite poor at public speaking and speaking in general.
+I'm grateful I had the chance to practice it via the paper presentation activity. 
+
+# Monday, Nov. 9th
+
+I'm grateful that `Claude Opus 5.5 on Swival` helped me to kick-start a large upgrade.
+I specifically appreciate how it tried and managed to understand my coding practice and naming style.
+How do LLMs turn variable names into tokens must be a complex, carefully engineered design.
+One downside might be that the agent sometimes drift off-task to fix minor issues that I was planning to adjust later.
+Another concern is the lack of "meta-understanding" (?).
+For example, when the LLM is working on a codebase that is under style transition or other complex constructions, it might choose the fast and easy approach instead of trying to guess the user's ideal final target.
+I guess that would be indeed be a super challenging task for all intelligence.   
+
 # Thursday, Nov 5th, Rainy
 
 The past few days have been quite intense for me.
