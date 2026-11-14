@@ -3,6 +3,38 @@ description: "Nov. 2026."
 tab_title: "Nov. 2026 - Diary - Zhifeng"
 ---
 
+## Friday, Nov. 13th, Rainy
+
+In the morning, I had to rewrite a code snippet for parsing upstream data into a format that I can directly put in my code, but it went quite smoothly.
+
+### Random
+
+- I'm grateful that Docker worked as expected when I went to run my code on another remote machine.
+- I'm not sure what might be the best approach for pulling a private Git repository from a virtual machine on the cloud. I suspect it has to involve creating a new temporary SSH key, if you don't want to download things like the GitHub command line tool.
+- I'm a little bit puzzled as to why my Ubuntu 26.04 doesn't support Zoom screen share (showing a black screen), probably due to missing software dependencies? 
+
+### Trying to Reduce Plastic Usage
+
+I also visited a local resaurant and asked about using my own glass container. I'm thankful that the clerk went to ask the manager(?). I'm still glad that I tried.
+
+### Trying "A.I."-assisted Programming w. Swival
+
+I gained more experience working with Swival, although "Claude Opus 5.5" provided my a somewhat over-complicated(?) solution. Imagine you need to mark and render some top rated items from a list. I'd like to try passing the "calculated" highest rating value and use a conditional logic to render the ones having the highest rating as "top", instead of passing a "Set" of calculated indices. I'm not sure if I completely understood "Claude Opus 5.5 on Swival"'s "idea" and "reasoning", but it was an interesting learning experience.
+
+### Circuit Drawer
+
+Implementing a circuit drawer can be quite interesting; it required a lot of code cleaning and "understanding" of the logic. I found myself thinking about Blender’s interface for inspiration.
+
+### Gemma-4-12b's Follow-up
+
+- **Q**: About the "Circuit Drawer", how did the "Blender" interface influence your design? (e.g., was it the way it handles "layers" or "properties"?)
+  **A**: I'm thinking about how Blender handles its interface interaction state and gives user hints about possible actions. That was really helpful. 
+
+- **Q**: How did the rain affect your productivity? Did the rainy weather make the "coding" feel like a cozy task?
+  **A**: I think the cold weather is better for keeping my mind relatively sharp, but it doesn't make "coding" feel like a cozy task in particular. 
+
+
+
 # Tuesday, Nov. 10th, Sunny
 
 I find the weather is often surprisingly good after I had a all-nighter study session, which is kind of sad.
