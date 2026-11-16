@@ -3,6 +3,26 @@ description: "Nov. 2026."
 tab_title: "Nov. 2026 - Diary - Zhifeng"
 ---
 
+## Sunday, Nov. 15, Sunny
+
+### Random
+
+- Tried a type of wipe tissue specially designed for cleaning stainless steel surfaces. I'm grateful and relieved that it worked and made the fridge shiny.
+
+### Reflect on Mopping
+
+When mopping the floor recently, several thoughts came into mind. The first one was, similar to how sweeping the floor makes you notice and care about small details, dust, and traces on the floor, my experience learning to program also kind of shares this characteristic. Reading and learning CS encourages you to dig and dive and at least try to understand and be considerate to every details.
+
+Another thought was about empowerment. In some ways, programming offers a unique opportunity: it not only enables people but also encourages people wanting to do things differently to design and use their own program, without relying, at least to some extent, on the main stream solution or the mainstream ideas. That empowerment can be way beyond independently writing a program. It's about a way of life.
+
+I do personally have practices of cleaning that, I guess, are different from the main stream. For example, beyond diligently recycling different types of items, I take photos of items that helped me to do the cleaning, for example various types of tissues for cleaning different surfaces. I feel like that's a way of honoring and showing respect to their help and sacrifice. It not about whether they can feel or not, maybe they can, maybe they cannot. This practice is more about honoring and documenting a kind of characteristics, metaphors, and virtues that I value, as well as building a consistent world view in my heart.   
+
+## Saturday, Nov. 14th
+
+### Random
+
+- **Just ICE Tea**: Failure is just data on how to succeed next time. - Grace UnHae Kwon
+
 ## Friday, Nov. 13th, Rainy
 
 In the morning, I had to rewrite a code snippet for parsing upstream data into a format that I can directly put in my code, but it went quite smoothly.
@@ -33,7 +53,22 @@ Implementing a circuit drawer can be quite interesting; it required a lot of cod
 - **Q**: How did the rain affect your productivity? Did the rainy weather make the "coding" feel like a cozy task?
   **A**: I think the cold weather is better for keeping my mind relatively sharp, but it doesn't make "coding" feel like a cozy task in particular. 
 
+# Thursday, Nov. 12th
 
+## Previous Server Design
+
+Spending more time on my previous implementation, I remembered the reason why I set up a `ServerState` design was that I was planning about testing the server logic and making the dependencies clearer. I noticed that the LLM somewhat took the shortcut.
+
+
+# Wednesday, Nov. 11th, Sunny
+
+## Fortune Items
+
+- Just Ice Tea: The sun shines not on us but in us. The river folow not past, but through us. - John Muir
+- Just Ice Tea: History doesn't repeat itself, but it often rhymes. - Unknown
+- Panda Express: You are a fun-loving person and will find much happiness.
+- Panda Express: A refreshing change is in your future.
+- Panda Express: Meet your partner half way.
 
 # Tuesday, Nov. 10th, Sunny
 
