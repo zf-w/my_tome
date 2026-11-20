@@ -3,7 +3,57 @@ description: "Nov. 2026."
 tab_title: "Nov. 2026 - Diary - Zhifeng"
 ---
 
-## Sunday, Nov. 15, Sunny
+## Thursday, Nov. 19th, Sunny
+
+### Implemented a Circuit Grading Logic
+
+I implemented a circuit grading logic on the server side. Some important steps includes deserializing the student circuit and evaluating all possible combinations of input and checking the output against the ground truth circuit.
+
+The time was a bit limited. I'm grateful and relieved that I was able to deliver this part kind of on-time.
+
+I have encountered three major interesting bugs during the development process.
+
+- Every thing evaluates to None, and the queue popping loop only loops one time. It turned out to be a bad indentation in a piece of Python code. The return logic got caught in the next node popping loop, where it should not be.
+
+- Weird gate got evaluated first: turned out to be Python list pop method was actually popping the last element. I thought it was popping the first.
+
+- Component evaluation logic encountered a null value. It turned out to be a typo. The queue appending logic was supposed to be appending the gates which all the input data were determined, but I instead checked the number of determined input against the number of output of those components.
+
+### Project Politics
+
+Group project politics can be very exhaustive.
+
+### The Spider
+
+I finally found the previous (?) escaped spider. I knew we were going to see each other again. I hope it and I can peacefully share my room.
+
+### Diligently Wiping and Cleansing
+
+Wiped the dining table and the dish washer surface. I'm grateful I had some time to do this.
+
+## Wednesday, Nov. 18th, Sunny
+
+### Random
+
+- **Just Ice Tea**: "Justice, justice shall you pursue." - The Bible
+
+### Two Bugs I Encountered Yesterday
+
+When implementing a graph structure, I noticed the edge deletion was reporting errors about deleting unkonwn edges. After some debugging, I realized it was not due to problems in the graph, but a click event doubly firing from a single action.
+
+When working on serialization and deserialization of that graph structure, I noticed a few edges went missing after deserialization. After some investigations, I noticed that the serialized string was not updated after edge creation, not a problem from the deserialization part.
+
+I'm grateful those things worked in the end.
+
+## Monday, Nov. 16th, Sunny
+
+### Random
+
+- **Just Ice Tea**: "When I let go of what I am, I become what I might be." - Lao Tzu (Not an authentic quote, loosely translated from "Bowed down then preserved; Bent then straight; Empty then full; Worn then new; A little then benefited; A lot then perplexed.")
+
+- Cleaning benefits me personally, while coding for course works or projects might not, at least not completely.
+
+## Sunday, Nov. 15th, Sunny
 
 ### Random
 
