@@ -3,6 +3,25 @@ description: "Nov. 2026."
 tab_title: "Nov. 2026 - Diary - Zhifeng"
 ---
 
+## Monday, Nov. 23rd, Sunny
+
+### Fortune Cookies and Bottle Caps
+
+- "There's enough to go around."
+- "You will make a change for the better."
+- "You are open and honest when it comes to matters of the heart."
+- "Your road to glory will be rocky, but fulfilling."
+- "Seek new challenges."
+- "You create enthusiasm around you."
+- "Your kindness will lead you to success."
+- "Your next decision will deliver unexpected happiness."
+- "The key to happiness is reasonable expectations."
+- "Never let the fear of striking out keep fou from playing the game." - Babe Ruth
+
+### Reviewing Receipts
+
+I am grateful to the people that prepared, crafted, and processed my meals.
+
 ## Thursday, Nov. 19th, Sunny
 
 ### Implemented a Circuit Grading Logic
