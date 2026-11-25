@@ -3,6 +3,25 @@ description: "Nov. 2026."
 tab_title: "Nov. 2026 - Diary - Zhifeng"
 ---
 
+## Wednesday, Nov. 25th, Rainy
+
+### Renamed Default Directories
+
+```bash
+# Edit the defaults file
+sudo nano /etc/xdg/user-dirs.defaults
+
+# Apply the defaults file
+xdg-user-dirs-update --force
+```
+
+#### References
+
+- duck.ai
+- **Fedora Discussion "Uppercase user/home folders"**: https://discussion.fedoraproject.org/t/uppercase-user-home-folders/66693
+- **Fedora Discussion "Change location of folders"**: https://discussion.fedoraproject.org/t/change-location-of-folders/164218
+- **freedesktop.org**: https://wiki.freedesktop.org/Software/xdg-user-dirs/
+
 ## Monday, Nov. 23rd, Sunny
 
 ### Fortune Cookies and Bottle Caps
